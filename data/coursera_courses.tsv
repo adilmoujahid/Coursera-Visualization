@@ -1,0 +1,730 @@
+id	course_name	course_language	course_short_name	categories	universities	categories_name	universities_name
+0	The Land Ethic Reclaimed: Perceptive Hunting, Aldo Leopold, and Conservation	en	perceptivehunting	[8, 10, 19, 20]	[65]	 Health & Society + Biology & Life Sciences + Food and Nutrition + Social Sciences	 University of Wisconsin–Madison
+1	Contraception: Choices, Culture and Consequences	en	contraception	[3, 8]	[10]	 Medicine + Health & Society	 University of California, San Francisco
+2	Introduction to Computational Arts: Processing	en	compartsprocessing	[1, 4, 18, 22]	[117]	 Computer Science: Theory + Information, Tech & Design + Music, Film, and Audio + Arts	 The State University of New York
+3	Introduction to Programming with MATLAB	en	matlab	[12, 15]	[37]	 Computer Science: Software Engineering + Engineering	 Vanderbilt University
+4	Introduction to Computing 计算概论A	zh-cn	pkuic	[1, 12]	[163]	 Computer Science: Theory + Computer Science: Software Engineering	 Peking University
+5	Fundamentals of Fluid Power	en	fluidpower	[15]	[50]	 Engineering	 University of Minnesota
+6	Microeconomics Principles	en	microecon	[2]	[17]	 Economics & Finance	 University of Illinois at Urbana-Champaign
+7	Women in Leadership: Inspiring Positive Change	en	womeninleadership	[13, 14, 20]	[68]	 Business & Management + Education + Social Sciences	 Case Western Reserve University
+8	The Science of the Solar System	en	solarsystem	[9, 23]	[12]	 Physical & Earth Sciences + Physics	 Caltech
+9	An Introduction to Consumer Neuroscience & Neuromarketing 	en	neuromarketing	[1, 2, 3, 6, 10]	[175]	 Computer Science: Theory + Economics & Finance + Medicine + Humanities  + Biology & Life Sciences	 Copenhagen Business School
+10	Cloud Networking	en	cloudnetworking	[11]	[17]	 Computer Science: Systems & Security	 University of Illinois at Urbana-Champaign
+11	Data Mining Capstone	en	dataminingcapstone	[4, 12, 16, 17]	[17]	 Information, Tech & Design + Computer Science: Software Engineering + Statistics and Data Analysis + Computer Science: Artificial Intelligence	 University of Illinois at Urbana-Champaign
+12	التقانة والمستشعرات النانوية	ar	nanosar	[10, 15, 24]	[129]	 Biology & Life Sciences + Engineering + Chemistry	 Technion - Israel Institute of Technology
+13	Contemporary India 	en	contempindia	[2, 6, 20]	[33]	 Economics & Finance + Humanities  + Social Sciences	 The University of Melbourne
+14	社会调查与研究方法 （上）Methodologies in Social Research (Part I)	zh-cn	methodologysocial	[8, 13, 14, 20]	[163]	 Health & Society + Business & Management + Education + Social Sciences	 Peking University
+15	Global Perspectives on Sexual and Reproductive Health and Rights (SRHR)	en	globalsrhr	[3, 8, 20]	[199]	 Medicine + Health & Society + Social Sciences	 Lund University
+16	Classics of Chinese Humanities: Guided Readings	en	chinesehumanitieseng	[6]	[45]	 Humanities 	 The Chinese University of Hong Kong
+17	Writing II: Rhetorical Composing	en	writing2	[6, 14]	[28]	 Humanities  + Education	 The Ohio State University
+18	Journalism Skills for Engaged Citizens	en	citizenjournalism	[4, 6, 8]	[33]	 Information, Tech & Design + Humanities  + Health & Society	 The University of Melbourne
+19	American Health Policy: The Affordable Care Act and the Future of Health Care Reform (Part II of II)	en	ushealthcarereform	[2, 8]	[6]	 Economics & Finance + Health & Society	 University of Pennsylvania
+20	Games without Chance: Combinatorial Game Theory 	en	cgt	[5]	[9]	 Mathematics	 Georgia Institute of Technology
+21	Introduction to Human Behavioral Genetics	en	behavioralgenetics	[8, 10, 20]	[50]	 Health & Society + Biology & Life Sciences + Social Sciences	 University of Minnesota
+22	Miracles of Human Language: An Introduction to Linguistics	en	humanlanguage	[6]	[25]	 Humanities 	 Universiteit Leiden
+23	An Introduction to Interactive Programming in Python	en	interactivepython	[12]	[13]	 Computer Science: Software Engineering	 Rice University
+24	Social Entrepreneurship	en	socialentrepeneur	[2, 13, 20]	[175]	 Economics & Finance + Business & Management + Social Sciences	 Copenhagen Business School
+25	Tecnologías de información y comunicación en la educación	es	ticyeducacion	[14]	[58]	 Education	 Universidad Nacional Autónoma de México
+26	Exploring Quantum Physics	en	eqp	[23]	[32]	 Physics	 University of Maryland, College Park
+27	Animal Behaviour and Welfare	en	animal	[8, 10, 20]	[14]	 Health & Society + Biology & Life Sciences + Social Sciences	 The University of Edinburgh
+28	Instructional Methods in Health Professions Education	en	instructmethodshpe	[3, 8, 14]	[3]	 Medicine + Health & Society + Education	 University of Michigan
+29	Mathematical Methods for Quantitative Finance	en	mathematicalmethods	[2, 5, 13]	[15]	 Economics & Finance + Mathematics + Business & Management	 University of Washington
+30	艺术史	zh-cn	arthistory	[22]	[163]	 Arts	 Peking University
+31	E-learning and Digital Cultures	en	edc	[14]	[14]	 Education	 The University of Edinburgh
+32	Marriage and the Movies: A History	en	marriageandmovies	[6, 18]	[34]	 Humanities  + Music, Film, and Audio	 Wesleyan University
+33	Understanding China, 1700-2000: A Data Analytic Approach, Part 1	en	newchinahistory1	[6, 20]	[35]	 Humanities  + Social Sciences	 The Hong Kong University of Science and Technology
+34	מבוא לאנרגיה מתחדשת Introduction to Renewable Energy 	he	renewableenergy	[9, 15, 25]	[110]	 Physical & Earth Sciences + Engineering + Energy & Earth Sciences	 Tel Aviv University
+35	Modern Hebrew Poetry   שירה עברית מודרנית  	he	hebrewpoetry1	[6]	[24]	 Humanities 	 Hebrew University of Jerusalem
+36	Global Postharvest Loss Prevention: Fundamentals, Technologies, and Actors	en	postharvestloss	[8, 10, 13, 15, 19, 20, 25]	[17]	 Health & Society + Biology & Life Sciences + Business & Management + Engineering + Food and Nutrition + Social Sciences + Energy & Earth Sciences	 University of Illinois at Urbana-Champaign
+37	Financing for Development	en	fin4devmooc	[2, 13]	[73]	 Economics & Finance + Business & Management	 The World Bank Group
+38	Fundamentos de la escritura en español	es	escrituraesp	[6, 14, 20]	[62]	 Humanities  + Education + Social Sciences	 Tecnológico de Monterrey
+39	Introduction to Natural Language Processing	en	nlpintro	[4, 6, 16, 17]	[3]	 Information, Tech & Design + Humanities  + Statistics and Data Analysis + Computer Science: Artificial Intelligence	 University of Michigan
+40	Introduction to Systematic Review and Meta-Analysis	en	systematicreview	[3, 8, 16]	[8]	 Medicine + Health & Society + Statistics and Data Analysis	 Johns Hopkins University
+41	iMOOC101: Mastering American eLearning	en	imooc	[4, 13, 14]	[117]	 Information, Tech & Design + Business & Management + Education	 The State University of New York
+42	Antimicrobial Stewardship: Optimization of Antibiotic Practices	en	antimicrobial	[3]	[1]	 Medicine	 Stanford University
+43	Economic Issues, Food & You	en	ecfoodandyou	[2, 19]	[31]	 Economics & Finance + Food and Nutrition	 University of Florida
+44	Financing and Investing in Infrastructure	en	infrafinance	[2]	[157]	 Economics & Finance	 Università Bocconi
+45	Engaging Students through Cooperative Learning	en	cooperativelearning	[14, 26]	[8]	 Education + Teacher Professional Development	 Johns Hopkins University
+46	The Finite Element Method for Problems in Physics	en	finiteelementmethods	[5, 15, 23]	[3]	 Mathematics + Engineering + Physics	 University of Michigan
+47	Mobile and Ubiquitous Computing	en	uidesign2	[4]	[9]	 Information, Tech & Design	 Georgia Institute of Technology
+48	Tinkering Fundamentals: A Constructionist Approach to STEM Learning	en	tinkering	[4, 14, 26]	[108]	 Information, Tech & Design + Education + Teacher Professional Development	 Exploratorium
+49	Networks Illustrated: Principles without Calculus	en	ni	[2, 4, 11]	[4]	 Economics & Finance + Information, Tech & Design + Computer Science: Systems & Security	 Princeton University
+50	AIDS	en	aids	[3, 8, 10]	[23]	 Medicine + Health & Society + Biology & Life Sciences	 Emory University
+51	Pensamiento algorítmico	es	pealgoritmico	[1, 14]	[62]	 Computer Science: Theory + Education	 Tecnológico de Monterrey
+52	Chinese Politics Part 1 – China and Political Science	en	chinesepolitics1	[6, 20]	[35]	 Humanities  + Social Sciences	 The Hong Kong University of Science and Technology
+53	Calvin - Histoire et réception d'une Réforme	fr	calvin	[6]	[49]	 Humanities 	 University of Geneva
+54	Introduction to Thermodynamics: Transferring Energy from Here to There	en	introthermodynamics	[15, 25]	[3]	 Engineering + Energy & Earth Sciences	 University of Michigan
+55	Genomic Data Science and Clustering (Bioinformatics V)	en	clustering	[1, 4, 5, 10, 12]	[53]	 Computer Science: Theory + Information, Tech & Design + Mathematics + Biology & Life Sciences + Computer Science: Software Engineering	 University of California, San Diego
+56	Our Earth: Its Climate, History, and Processes	en	ourearth	[9, 25]	[147]	 Physical & Earth Sciences + Energy & Earth Sciences	 University of Manchester
+57	Forensic Accounting and Fraud Examination	en	forensicaccounting	[2, 13, 16]	[116]	 Economics & Finance + Business & Management + Statistics and Data Analysis	 West Virginia University
+58	Write Like Mozart: An Introduction to Classical Music Composition	en	classicalcomp	[18]	[47]	 Music, Film, and Audio	 National University of Singapore
+59	Asset Pricing, Part 2	en	assetpricing2	[2, 5, 13]	[102]	 Economics & Finance + Mathematics + Business & Management	 The University of Chicago
+60	Learning to Teach Online	en	ltto	[14, 26]	[155]	 Education + Teacher Professional Development	 UNSW Australia (The University of New South Wales)
+61	Disaster Preparedness for the Health Care Professional	en	disasterpreparedness	[3, 8]	[8]	 Medicine + Health & Society	 Johns Hopkins University
+62	Better Leader, Richer Life	en	totalleadership	[8, 13, 14, 20]	[6]	 Health & Society + Business & Management + Education + Social Sciences	 University of Pennsylvania
+63	Initiation à la programmation (en C++)	fr	initprogcpp	[12]	[16]	 Computer Science: Software Engineering	 École Polytechnique Fédérale de Lausanne
+64	Critical Perspectives on Management	en	criticalmanagement	[13]	[61]	 Business & Management	 IE Business School
+65	Preparing for the AP* Statistics Exam	en	apstat	[5, 16]	[119]	 Mathematics + Statistics and Data Analysis	 University of Houston System
+66	Mathematical Biostatistics Boot Camp 2	en	biostats2	[4, 5, 8]	[8]	 Information, Tech & Design + Mathematics + Health & Society	 Johns Hopkins University
+67	Introduction to Chemistry:  Reactions and Ratios	en	chem991	[9, 24, 26]	[7]	 Physical & Earth Sciences + Chemistry + Teacher Professional Development	 Duke University
+68	FLOW Education: Facilitating Learning through Outdoor Watershed Education	en	watershed	[14, 26]	[154]	 Education + Teacher Professional Development	 National Geographic Society
+69	Programming for Everybody (Python)	en	pythonlearn	[4, 12]	[3]	 Information, Tech & Design + Computer Science: Software Engineering	 University of Michigan
+70	Image and video processing: From Mars to Hollywood with a stop at the hospital	en	images	[5, 15, 17]	[7]	 Mathematics + Engineering + Computer Science: Artificial Intelligence	 Duke University
+71	Fundamentos e Linguagem de Negócios: Contabilidade (The Blue Side Up)	pt-br	linguanegocios	[2, 13]	[221]	 Economics & Finance + Business & Management	 Universidade de São Paulo
+72	Discrete Optimization	en	optimization	[17]	[33]	 Computer Science: Artificial Intelligence	 The University of Melbourne
+73	Water Supply and Sanitation Policy in Developing Countries	en	water	[2, 8, 13]	[147]	 Economics & Finance + Health & Society + Business & Management	 University of Manchester
+74	Generating the Wealth of Nations	en	wealthofnations	[2]	[33]	 Economics & Finance	 The University of Melbourne
+75	Cloud Computing Concepts	en	cloudcomputing	[1, 4, 12, 15]	[17]	 Computer Science: Theory + Information, Tech & Design + Computer Science: Software Engineering + Engineering	 University of Illinois at Urbana-Champaign
+76	Economics of Money and Banking, Part Two	en	money2	[2]	[40]	 Economics & Finance	 Columbia University
+77	Statistical Mechanics: Algorithms and Computations	en	smac	[1, 5, 23, 24]	[130]	 Computer Science: Theory + Mathematics + Physics + Chemistry	 École normale supérieure
+78	Big Data em Saúde no Brasil	pt-br	bigdatabrasil	[8, 16]	[221]	 Health & Society + Statistics and Data Analysis	 Universidade de São Paulo
+79	Introduction to Art: Concepts & Techniques	en	art	[6, 22]	[51]	 Humanities  + Arts	 The Pennsylvania State University
+80	Computer Architecture	en	comparch	[11, 15]	[4]	 Computer Science: Systems & Security + Engineering	 Princeton University
+81	Deciphering Secrets: Unlocking the Manuscripts of Medieval Spain	en	medievalspain	[6]	[126]	 Humanities 	 University of Colorado System
+82	媒介批评:理论与方法 Media Criticism: Theory and Method	zh-cn	sjtujc331	[6, 18]	[150]	 Humanities  + Music, Film, and Audio	 Shanghai Jiao Tong University
+83	International Human Rights Law: Prospects and Challenges	en	intlhumanrightslaw	[20, 21]	[7]	 Social Sciences + Law	 Duke University
+84	Statistics One	en	stats1	[16]	[4]	 Statistics and Data Analysis	 Princeton University
+85	Introduction to Dental Medicine	en	dentmedpenn	[3, 8]	[6]	 Medicine + Health & Society	 University of Pennsylvania
+86	Asset Pricing, Part 1	en	assetpricing	[2, 5, 13]	[102]	 Economics & Finance + Mathematics + Business & Management	 The University of Chicago
+87	Automata	en	automata	[1]	[1]	 Computer Science: Theory	 Stanford University
+88	Massively Multivariable Open Online Calculus Course	en	m2o2c2	[5]	[28]	 Mathematics	 The Ohio State University
+89	Climate Change	en	climatechange	[2, 6, 25]	[33]	 Economics & Finance + Humanities  + Energy & Earth Sciences	 The University of Melbourne
+90	The Android Capstone Project 	en	androidcapstone2	[4, 12]	[32, 37]	 Information, Tech & Design + Computer Science: Software Engineering	 University of Maryland, College Park + Vanderbilt University
+91	An Introduction to Interactive Programming in Python (Part 1)	en	interactivepython1	[12]	[13]	 Computer Science: Software Engineering	 Rice University
+92	ART of the MOOC: Merging Public Art and Experimental Education	en	artofthemooc	[6, 14, 18, 20, 22]	[7]	 Humanities  + Education + Music, Film, and Audio + Social Sciences + Arts	 Duke University
+93	Egiptología (Egyptology)	es	egypt	[6]	[80]	 Humanities 	 Universitat Autònoma de Barcelona
+94	Equine Nutrition	en	equinenutrition	[3]	[14]	 Medicine	 The University of Edinburgh
+95	食品安全與毒理 (Food Safety & Toxicology)	zh-tw	foodsafetytox	[8, 19]	[75]	 Health & Society + Food and Nutrition	 National Taiwan University
+96	From GPS and Google Maps to Spatial Computing	en	spatialcomputing	[4, 8, 9, 11, 16, 20]	[50]	 Information, Tech & Design + Health & Society + Physical & Earth Sciences + Computer Science: Systems & Security + Statistics and Data Analysis + Social Sciences	 University of Minnesota
+97	Personal & Family Financial Planning	en	uffinancialplanning	[2, 5, 13]	[31]	 Economics & Finance + Mathematics + Business & Management	 University of Florida
+98	财务会计概论（中文版）	zh-cn	whartonaccountingzh	[2, 13]	[6]	 Economics & Finance + Business & Management	 University of Pennsylvania
+99	Practicing Tolerance in a Religious Society: The Church and the Jews in Italy	en	religionandtolerance	[6, 20]	[32]	 Humanities  + Social Sciences	 University of Maryland, College Park
+100	遗传学实验	zh-cn	geneticlab	[10]	[163]	 Biology & Life Sciences	 Peking University
+101	Bioinformatics: Life Sciences on Your Computer	en	bioinform	[4, 10]	[8]	 Information, Tech & Design + Biology & Life Sciences	 Johns Hopkins University
+102	What future for education?	en	futureeducation	[14, 26]	[26]	 Education + Teacher Professional Development	 University of London
+103	Caries Management by Risk Assessment (CAMBRA)	en	cariesmanagement	[3, 8, 10]	[10]	 Medicine + Health & Society + Biology & Life Sciences	 University of California, San Francisco
+104	Financial Markets 金融市场（中文版）	zh-cn	financialmarketszh	[2, 13]	[109]	 Economics & Finance + Business & Management	 Yale University
+105	Modern European Mysticism and Psychological Thought	en	mysticthought	[6]	[24]	 Humanities 	 Hebrew University of Jerusalem
+106	Healthcare Technologies to Assess Human Behavior for Health Management	en	healthimaging	[3, 15]	[9]	 Medicine + Engineering	 Georgia Institute of Technology
+107	Writing in the Sciences	en	sciwrite	[6, 10]	[1]	 Humanities  + Biology & Life Sciences	 Stanford University
+108	An Introduction to Population Health	en	population	[8]	[147]	 Health & Society	 University of Manchester
+109	The Power of Macroeconomics: Economic Principles in the Real World	en	ucimacroeconomics	[2, 13]	[30]	 Economics & Finance + Business & Management	 University of California, Irvine
+110	Alcohol, Drugs, and Baby Boomers: Are you ready?	en	babyboomersanddrugs	[3, 8]	[8]	 Medicine + Health & Society	 Johns Hopkins University
+111	中级有机化学 Comprehensive Organic Chemistry	zh-cn	orgchem	[24]	[163]	 Chemistry	 Peking University
+112	Valuation: Alternative Methods	en	valuationmethods	[2, 13]	[3]	 Economics & Finance + Business & Management	 University of Michigan
+113	Introduction to Pharmacy	en	intropharma	[3, 8]	[28]	 Medicine + Health & Society	 The Ohio State University
+114	Game Theory	en	gametheory	[1, 2, 17]	[1, 29]	 Computer Science: Theory + Economics & Finance + Computer Science: Artificial Intelligence	 Stanford University
+115	Основы микроэкономики (Microeconomics Principles)	ru	microeconomic	[2]	[160]	 Economics & Finance	 Higher School of Economics
+116	Energy, the Environment, and Our Future	en	energy	[25]	[51]	 Energy & Earth Sciences	 The Pennsylvania State University
+117	Nanotechnology: The Basics	en	nanotech	[8, 9, 10, 15, 23, 24]	[13]	 Health & Society + Physical & Earth Sciences + Biology & Life Sciences + Engineering + Physics + Chemistry	 Rice University
+118	Geospatial Intelligence & the Geospatial Revolution	en	geoint	[4, 16, 20]	[51]	 Information, Tech & Design + Statistics and Data Analysis + Social Sciences	 The Pennsylvania State University
+119	Grundlagenkurs Unfallchirurgie	de	traumasurgery	[3]	[78]	 Medicine	 Technische Universität München (TUM)
+120	Creative Programming for Digital Media & Mobile Apps	en	digitalmedia	[4, 12]	[26]	 Information, Tech & Design + Computer Science: Software Engineering	 University of London
+121	Introduction to Key Constitutional Concepts and Supreme Court Cases	en	constitution	[20, 21]	[6]	 Social Sciences + Law	 University of Pennsylvania
+122	The Law of the European Union: An Introduction	en	introeulaw	[6, 20, 21]	[25]	 Humanities  + Social Sciences + Law	 Universiteit Leiden
+123	Law and the Entrepreneur 	en	law	[13, 21]	[54]	 Business & Management + Law	 Northwestern University
+124	Text Mining and Analytics	en	textanalytics	[4, 16, 17]	[17]	 Information, Tech & Design + Statistics and Data Analysis + Computer Science: Artificial Intelligence	 University of Illinois at Urbana-Champaign
+125	Introduction to Astronomy	en	introastro	[23, 26]	[7]	 Physics + Teacher Professional Development	 Duke University
+126	Proyecto de Fundamentos Empresariales de Wharton	es	whartoncapstonees	[13]	[6]	 Business & Management	 University of Pennsylvania
+127	Vaccine Trials: Methods and Best Practices	en	vacctrials	[3, 8]	[8]	 Medicine + Health & Society	 Johns Hopkins University
+128	Introduction à la programmation orientée objet (en Java)	fr	intropoojava	[12]	[16]	 Computer Science: Software Engineering	 École Polytechnique Fédérale de Lausanne
+129	 Shakespeare in Community	en	virtualshakespeare	[6, 14, 18, 22]	[65]	 Humanities  + Education + Music, Film, and Audio + Arts	 University of Wisconsin–Madison
+130	The Science of Gastronomy	en	scigast	[10, 19]	[35]	 Biology & Life Sciences + Food and Nutrition	 The Hong Kong University of Science and Technology
+131	Introduction to Power Electronics	en	powerelectronics	[15]	[71, 126]	 Engineering	 University of Colorado Boulder + University of Colorado System
+132	Introduction to Chemistry	en	chem99	[9, 24]	[7]	 Physical & Earth Sciences + Chemistry	 Duke University
+133	Everything is the Same: Modeling Engineered Systems	en	modelsystems	[15]	[54]	 Engineering	 Northwestern University
+134	Clinical Terminology for International and U.S. Students	en	clinicalterminology	[3]	[36]	 Medicine	 University of Pittsburgh
+135	機器學習技法 (Machine Learning Techniques)	zh-tw	ntumltwo	[17]	[75]	 Computer Science: Artificial Intelligence	 National Taiwan University
+136	The Fall and Rise of Jerusalem	en	jerusalem	[6]	[110]	 Humanities 	 Tel Aviv University
+137	Social Entrepreneurship	en	socialimpact	[2, 6, 8, 13, 20]	[6]	 Economics & Finance + Humanities  + Health & Society + Business & Management + Social Sciences	 University of Pennsylvania
+138	Introduction to Classical Music	en	introtoclassical	[18]	[3]	 Music, Film, and Audio	 University of Michigan
+139	Fundamentals of Fluid-Solid Interactions	en	fsi	[15, 23]	[66]	 Engineering + Physics	 École Polytechnique
+140	大数据与信息传播         Big Data and Information Dissemination	zh-cn	fdubigdata	[13, 16, 20]	[188]	 Business & Management + Statistics and Data Analysis + Social Sciences	 Fudan University
+141	Preparation for Introductory Biology: DNA to Organisms	en	introbiology	[10]	[30]	 Biology & Life Sciences	 University of California, Irvine
+142	Engineering Self-Reflection for Human Completion	en	selfreflection	[6, 14, 15]	[178]	 Humanities  + Education + Engineering	 Korea Advanced Institute of Science and Technology
+143	Fundamentals of Digital Image and Video Processing	en	digital	[4, 15, 17]	[54]	 Information, Tech & Design + Engineering + Computer Science: Artificial Intelligence	 Northwestern University
+144	Документы и презентации в LaTeX (Introduction to LaTeX)	ru	latex	[4]	[160]	 Information, Tech & Design	 Higher School of Economics
+145	Introduction to Data Science	en	datasci	[4, 11, 12, 16]	[15]	 Information, Tech & Design + Computer Science: Systems & Security + Computer Science: Software Engineering + Statistics and Data Analysis	 University of Washington
+146	Magic in the Middle Ages	en	magicmiddleages	[6, 22]	[212]	 Humanities  + Arts	 University of Barcelona
+147	Digital Signal Processing	en	dsp	[5, 15, 17]	[16]	 Mathematics + Engineering + Computer Science: Artificial Intelligence	 École Polytechnique Fédérale de Lausanne
+148	Макроэкономика (Macroeconomics)	ru	macroec	[2]	[160]	 Economics & Finance	 Higher School of Economics
+149	Introduction to Clinical Neurology	en	clinicalneurology	[3]	[10]	 Medicine	 University of California, San Francisco
+150	Neuroscience: Perception, Action and the Brain Capstone	en	neurofinalproject	[3, 10, 26]	[7]	 Medicine + Biology & Life Sciences + Teacher Professional Development	 Duke University
+151	Cryptography	en	cryptography	[11]	[32]	 Computer Science: Systems & Security	 University of Maryland, College Park
+152	Эконометрика (Econometrics)	ru	econometrics	[2, 5, 16]	[160]	 Economics & Finance + Mathematics + Statistics and Data Analysis	 Higher School of Economics
+153	Revolutionary Ideas: An Introduction to Legal and Political Philosophy (Alumni)	en	politicalphilosophyalumni	[20]	[6]	 Social Sciences	 University of Pennsylvania
+154	Theatre and Globalization	en	globaltheatre	[6, 22]	[64]	 Humanities  + Arts	 Ludwig-Maximilians-Universität München (LMU)
+155	Training and Learning Programs for Volunteer Community Health Workers	en	commhealthworkers	[3, 8, 14]	[8]	 Medicine + Health & Society + Education	 Johns Hopkins University
+156	Control of Mobile Robots	en	conrob	[15, 17]	[9]	 Engineering + Computer Science: Artificial Intelligence	 Georgia Institute of Technology
+157	Marine Megafauna: An Introduction to Marine Science and Conservation	en	megafauna	[10]	[7]	 Biology & Life Sciences	 Duke University
+158	Linear and Integer Programming	en	linearprogramming	[]	[71, 126]		 University of Colorado Boulder + University of Colorado System
+159	Poisonings in the Home and Community: Assessment and Emergency Response	en	poisonings	[3, 8]	[10]	 Medicine + Health & Society	 University of California, San Francisco
+160	Organizational Analysis (Self-Paced)	en	organalysis	[13, 14, 20]	[1]	 Business & Management + Education + Social Sciences	 Stanford University
+161	Surveillance Law	en	surveillance	[11, 21]	[1]	 Computer Science: Systems & Security + Law	 Stanford University
+162	On Strategy: What Managers can learn from Philosophy - Part 2	en	businessandphilo2	[6, 13]	[128]	 Humanities  + Business & Management	 CentraleSupélec
+163	Climate Change in Four Dimensions	en	4dimensions	[2, 8, 9, 10, 20, 21, 25]	[53]	 Economics & Finance + Health & Society + Physical & Earth Sciences + Biology & Life Sciences + Social Sciences + Law + Energy & Earth Sciences	 University of California, San Diego
+164	Principles of fMRI 1	en	fmri1	[3, 8, 10, 16]	[8]	 Medicine + Health & Society + Biology & Life Sciences + Statistics and Data Analysis	 Johns Hopkins University
+165	Foundations of Teaching for Learning Capstone: The Reflective Practitioner	en	teachcapstone	[6, 14, 26]	[106]	 Humanities  + Education + Teacher Professional Development	 Commonwealth Education Trust
+166	Human Trafficking	en	humantrafficking	[6, 8, 20]	[28]	 Humanities  + Health & Society + Social Sciences	 The Ohio State University
+167	Understanding Einstein: The Special Theory of Relativity	en	einstein	[6, 23]	[1]	 Humanities  + Physics	 Stanford University
+168	Logic: Language and Information 2	en	logic2	[1, 5, 6, 15, 22]	[33]	 Computer Science: Theory + Mathematics + Humanities  + Engineering + Arts	 The University of Melbourne
+169	Statistical Reasoning for Public Health 2: Regression Methods	en	statreasoning2	[5, 8, 10]	[8]	 Mathematics + Health & Society + Biology & Life Sciences	 Johns Hopkins University
+170	Major Depression in the Population: A Public Health Approach	en	pmhdepression	[3, 8]	[8]	 Medicine + Health & Society	 Johns Hopkins University
+171	沃顿商务基础毕业项目（中文版）	zh-cn	whartoncapstonezh	[2, 13]	[6]	 Economics & Finance + Business & Management	 University of Pennsylvania
+172	Resilience in Children Exposed to Trauma, Disaster and War: Global Perspectives	en	resilienceinchildren	[8, 14, 20]	[50]	 Health & Society + Education + Social Sciences	 University of Minnesota
+173	Economics of Money and Banking, Part One	en	money	[2]	[40]	 Economics & Finance	 Columbia University
+174	流行病学基础（上）	zh-cn	bjmuepiabc	[3, 8]	[163]	 Medicine + Health & Society	 Peking University
+175	工程圖學2D	zh-tw	graph	[4, 15, 22]	[75]	 Information, Tech & Design + Engineering + Arts	 National Taiwan University
+176	算法设计与分析   Design and Analysis of Algorithms	zh-cn	algorithms	[1]	[163]	 Computer Science: Theory	 Peking University
+177	唐诗宋词人文解读 Appreciation of Tang and Song Poetry	zh-cn	sjtuch902	[6]	[150]	 Humanities 	 Shanghai Jiao Tong University
+178	Introduction to Light, Color, and Life	en	lcl	[4, 9, 10]	[178]	 Information, Tech & Design + Physical & Earth Sciences + Biology & Life Sciences	 Korea Advanced Institute of Science and Technology
+179	Functional Programming Principles in Scala	en	progfun	[12]	[16]	 Computer Science: Software Engineering	 École Polytechnique Fédérale de Lausanne
+180	Why We Need Psychology	en	needpsych	[6]	[26]	 Humanities 	 University of London
+181	Auf Deutsch: Communicating in German Across Cultures 	en	deutsch	[6, 14, 20]	[6]	 Humanities  + Education + Social Sciences	 University of Pennsylvania
+182	Markets with Frictions	en	marketswithfrictions	[2, 13]	[65]	 Economics & Finance + Business & Management	 University of Wisconsin–Madison
+183	Psychology of Popularity	en	popularity	[1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]	[77]	 Computer Science: Theory + Economics & Finance + Medicine + Information, Tech & Design + Mathematics + Humanities  + Health & Society + Physical & Earth Sciences + Biology & Life Sciences + Computer Science: Systems & Security + Computer Science: Software Engineering + Business & Management + Education + Engineering + Statistics and Data Analysis + Computer Science: Artificial Intelligence + Music, Film, and Audio + Food and Nutrition + Social Sciences + Law + Arts + Physics + Chemistry + Energy & Earth Sciences + Teacher Professional Development	 The University of North Carolina at Chapel Hill
+184	The Science of Safety in Healthcare	en	healthcaresafety	[3, 8]	[8]	 Medicine + Health & Society	 Johns Hopkins University
+185	Community Change in Public Health	en	communitychange	[8]	[8]	 Health & Society	 Johns Hopkins University
+186	Feeding the World	en	feedingtheworld	[2, 8, 10, 19]	[6]	 Economics & Finance + Health & Society + Biology & Life Sciences + Food and Nutrition	 University of Pennsylvania
+187	Ethical and Social Challenges of Genomic and Precision Medicine	en	ethicalsocialgenomic	[3, 8]	[10]	 Medicine + Health & Society	 University of California, San Francisco
+188	Introduction to Statistics for the Social Sciences	en	statistics101	[5, 16, 20]	[93]	 Mathematics + Statistics and Data Analysis + Social Sciences	 University of Zurich
+189	Software Defined Networking	en	sdn1	[11, 12]	[4]	 Computer Science: Systems & Security + Computer Science: Software Engineering	 Princeton University
+190	Introductory Physics I with Laboratory	en	phys1	[9, 15, 23, 26]	[9]	 Physical & Earth Sciences + Engineering + Physics + Teacher Professional Development	 Georgia Institute of Technology
+191	20世纪西方音乐 Western Music in the 20th Century	zh-cn	20cnwm	[6, 18, 22]	[163]	 Humanities  + Music, Film, and Audio + Arts	 Peking University
+192	Learn to Program: The Fundamentals	en	programming1	[12]	[11]	 Computer Science: Software Engineering	 University of Toronto
+193	Social Epidemiology	en	socialepi	[8, 20]	[50]	 Health & Society + Social Sciences	 University of Minnesota
+194	Programming Languages	en	proglang	[12]	[15]	 Computer Science: Software Engineering	 University of Washington
+195	Foundations of Virtual Instruction	en	virtualinstruction	[4, 14, 26]	[30]	 Information, Tech & Design + Education + Teacher Professional Development	 University of California, Irvine
+196	Roman Architecture	en	romanarchitecture	[6, 22]	[109]	 Humanities  + Arts	 Yale University
+197	ICT in Primary Education: Transforming children's learning across the curriculum	en	ictinprimary	[14, 26]	[26]	 Education + Teacher Professional Development	 University of London
+198	Citizenship and U.S. Immigration	en	immigration	[6, 21]	[23]	 Humanities  + Law	 Emory University
+199	Chinese Characters for beginner 汉字	zh-cn	chinesecharacters	[6]	[163]	 Humanities 	 Peking University
+200	Unethical Decision Making in Organizations	en	unethicaldecision	[6, 13, 20]	[159]	 Humanities  + Business & Management + Social Sciences	 University of Lausanne
+201	Shaping the Way We Teach English, 2: Paths to Success in ELT	en	shaping2paths	[14, 26]	[185]	 Education + Teacher Professional Development	
+202	Cloud Computing Applications	en	cloudapplications	[4, 11, 12]	[17]	 Information, Tech & Design + Computer Science: Systems & Security + Computer Science: Software Engineering	 University of Illinois at Urbana-Champaign
+203	Scientific Computing	en	scientificcomp	[5, 16]	[15]	 Mathematics + Statistics and Data Analysis	 University of Washington
+204	紅樓夢(The Red Chamber Dream)	zh-tw	rcd	[6]	[75]	 Humanities 	 National Taiwan University
+205	Photography: A Victorian Sensation	en	vicphoto	[6, 14, 18, 22]	[14]	 Humanities  + Education + Music, Film, and Audio + Arts	 The University of Edinburgh
+206	史記（一）（Shi-ji (1) ）	zh-tw	shiji	[6]	[75]	 Humanities 	 National Taiwan University
+207	Introduction to Recommender Systems	en	recsys	[4, 13, 17]	[50]	 Information, Tech & Design + Business & Management + Computer Science: Artificial Intelligence	 University of Minnesota
+208	刑法学总论 Criminal Law	zh-cn	criminallaw	[21]	[163]	 Law	 Peking University
+209	Model Thinking 模型思维（中文版）	zh-cn	modelthinkingzh	[2, 6, 20]	[3]	 Economics & Finance + Humanities  + Social Sciences	 University of Michigan
+210	Bajemos la temperatura - Por qué se debe evitar un planeta 4°C más cálido	es	bajemostemperatura	[9, 25]	[73]	 Physical & Earth Sciences + Energy & Earth Sciences	 The World Bank Group
+211	Water: The Essential Resource	en	waterandenvironment	[14, 26]	[154]	 Education + Teacher Professional Development	 National Geographic Society
+212	Turn Down the Heat: Why a 4°C Warmer World Must be Avoided	en	warmerworld	[9, 25]	[73]	 Physical & Earth Sciences + Energy & Earth Sciences	 The World Bank Group
+213	Теория отраслевых рынков (Industrial Organization)	ru	industorg	[2]	[160]	 Economics & Finance	 Higher School of Economics
+214	Listening to World Music	en	worldmusic	[6, 18, 20]	[6]	 Humanities  + Music, Film, and Audio + Social Sciences	 University of Pennsylvania
+215	Social Network Analysis	en	sna	[4, 17]	[3]	 Information, Tech & Design + Computer Science: Artificial Intelligence	 University of Michigan
+216	Science, Technology, and Society in China II: History of S&T in Chinese Society	en	stschina2	[20]	[35]	 Social Sciences	 The Hong Kong University of Science and Technology
+217	Origens da Vida no Contexto Cósmico	pt-br	origensdavida	[9, 23]	[221]	 Physical & Earth Sciences + Physics	 Universidade de São Paulo
+218	Planning & Design of Sanitation Systems and Technologies 	en	sanitation	[8, 20]	[16]	 Health & Society + Social Sciences	 École Polytechnique Fédérale de Lausanne
+219	General Game Playing	en	ggp	[1, 5, 17]	[1]	 Computer Science: Theory + Mathematics + Computer Science: Artificial Intelligence	 Stanford University
+220	Aboriginal Worldviews and Education	en	aboriginaled	[6, 14]	[11]	 Humanities  + Education	 University of Toronto
+221	Generation Rx: The Science Behind Prescription Drug Abuse	en	genrx	[3, 8]	[28]	 Medicine + Health & Society	 The Ohio State University
+222	Information Theory	en	informationtheory	[4]	[45]	 Information, Tech & Design	 The Chinese University of Hong Kong
+223	Case-Based Introduction to Biostatistics	en	casebasedbiostat	[8, 16]	[8]	 Health & Society + Statistics and Data Analysis	 Johns Hopkins University
+224	Planet Earth...and You!	en	earth	[9, 25]	[17]	 Physical & Earth Sciences + Energy & Earth Sciences	 University of Illinois at Urbana-Champaign
+225	Analysis of a Complex Kind	en	complexanalysis	[5]	[34]	 Mathematics	 Wesleyan University
+226	Human-Computer Interaction Design	en	hcidesign	[4, 12]	[53]	 Information, Tech & Design + Computer Science: Software Engineering	 University of California, San Diego
+227	Health Policy and the Affordable Care Act	en	healthpolicy	[2, 8]	[6]	 Economics & Finance + Health & Society	 University of Pennsylvania
+228	离散数学概论 Discrete Mathematics Generality	zh-cn	dmathgen	[1, 5]	[163]	 Computer Science: Theory + Mathematics	 Peking University
+229	Exploring Neural Data	en	neuraldata	[10, 16]	[22]	 Biology & Life Sciences + Statistics and Data Analysis	 Brown University
+230	Early Renaissance Architecture in Italy: from Alberti to Bramante	en	renaissancearchitect	[6, 22]	[74]	 Humanities  + Arts	 Sapienza University of Rome
+231	Leading Strategic Innovation in Organizations	en	innovation	[13]	[37]	 Business & Management	 Vanderbilt University
+232	Principles of Computing (Part 1)	en	principlescomputing1	[1, 12]	[13]	 Computer Science: Theory + Computer Science: Software Engineering	 Rice University
+233	Diabetes: Diagnosis, Treatment, and Opportunities	en	ucsfdiabetes	[3, 8]	[10]	 Medicine + Health & Society	 University of California, San Francisco
+234	The Diversity of Exoplanets	en	extrasolarplanets	[23]	[49]	 Physics	 University of Geneva
+235	Probability	en	probability	[2, 5, 15, 16, 20]	[6]	 Economics & Finance + Mathematics + Engineering + Statistics and Data Analysis + Social Sciences	 University of Pennsylvania
+236	Clinical Problem Solving	en	clinprobsolv	[3]	[10]	 Medicine	 University of California, San Francisco
+237	Cities are back in town : urban sociology for a globalizing urban world 	en	cities	[6, 20]	[210]	 Humanities  + Social Sciences	 Sciences Po
+238	Sprachtechnologie in den Digital Humanities	de	langtechindh	[6, 16, 17]	[93]	 Humanities  + Statistics and Data Analysis + Computer Science: Artificial Intelligence	 University of Zurich
+239	An Exploration of Symmetry (Eligible for NTU Credit)	en	ntusym	[9, 10, 22, 24]	[121]	 Physical & Earth Sciences + Biology & Life Sciences + Arts + Chemistry	 Nanyang Technological University, Singapore
+240	University of Illinois iMBA Program	en	imba	[13]	[17]	 Business & Management	 University of Illinois at Urbana-Champaign
+241	Introducción a las Finanzas Corporativas	es	whartonfinancees	[13]	[6]	 Business & Management	 University of Pennsylvania
+242	Computational Neuroscience	en	compneuro	[3, 5, 10, 15, 16, 17]	[15]	 Medicine + Mathematics + Biology & Life Sciences + Engineering + Statistics and Data Analysis + Computer Science: Artificial Intelligence	 University of Washington
+243	Statistics: Making Sense of Data	en	introstats	[16]	[11]	 Statistics and Data Analysis	 University of Toronto
+244	Sustainable Food Production Through Livestock Health Management	en	sustainablefood	[2, 3, 8, 10, 13, 19]	[17]	 Economics & Finance + Medicine + Health & Society + Biology & Life Sciences + Business & Management + Food and Nutrition	 University of Illinois at Urbana-Champaign
+245	Liderazgo en gestión educativa estratégica a través del uso de la tecnología	es	lidergestionedu	[26]	[62]	 Teacher Professional Development	 Tecnológico de Monterrey
+246	Claves para Gestionar Personas	es	gestionpersonas	[13, 20]	[172]	 Business & Management + Social Sciences	 IESE Business School
+247	La visione del mondo della Relatività e della Meccanica Quantistica	it	rqm	[6, 23]	[74]	 Humanities  + Physics	 Sapienza University of Rome
+248	Finding Mutations in DNA and Proteins (Bioinformatics VI)	en	mutations	[1, 4, 5, 10, 12]	[53]	 Computer Science: Theory + Information, Tech & Design + Mathematics + Biology & Life Sciences + Computer Science: Software Engineering	 University of California, San Diego
+249	The Brain and Space	en	brainspace	[10, 26]	[7]	 Biology & Life Sciences + Teacher Professional Development	 Duke University
+250	Configuring the World: A Critical Political Economy Approach	en	configuringworld	[2, 6, 20]	[25, 49]	 Economics & Finance + Humanities  + Social Sciences	 Universiteit Leiden + University of Geneva
+251	Pattern-Oriented Software Architectures for Concurrent and Networked Software	en	posasoftware	[]	[37]		 Vanderbilt University
+252	数据结构与算法  Data Structures and Algorithms	zh-cn	dsalgo	[1]	[163]	 Computer Science: Theory	 Peking University
+253	Virology I: How Viruses Work	en	virology	[3, 10]	[40]	 Medicine + Biology & Life Sciences	 Columbia University
+254	東亞儒學─孟子：1 (East Asian Confucianisms: Mencius 1)	zh-tw	mencius1	[6]	[75]	 Humanities 	 National Taiwan University
+255	Cluster Analysis in Data Mining	en	clusteranalysis	[4, 12, 16]	[17]	 Information, Tech & Design + Computer Science: Software Engineering + Statistics and Data Analysis	 University of Illinois at Urbana-Champaign
+256	Mental Health: A Global Priority	en	mhglobal	[3, 8]	[14]	 Medicine + Health & Society	 The University of Edinburgh
+257	Introduction to Systems Engineering	en	introse	[4, 13, 15]	[155]	 Information, Tech & Design + Business & Management + Engineering	 UNSW Australia (The University of New South Wales)
+258	Designing Technology for Learning	en	designtech4learning	[4, 15]	[9]	 Information, Tech & Design + Engineering	 Georgia Institute of Technology
+259	Web Application Architectures	en	webapplications	[4, 12, 15]	[120]	 Information, Tech & Design + Computer Science: Software Engineering + Engineering	 University of New Mexico
+260	Pathways to climate change adaptation: the case of Small Island Developing States	en	sids	[8, 9, 14, 20, 25]	[49]	 Health & Society + Physical & Earth Sciences + Education + Social Sciences + Energy & Earth Sciences	 University of Geneva
+261	Les problèmes métaphysiques à l’épreuve de la politique, 1943-1968	fr	philofrancaise	[6]	[130]	 Humanities 	 École normale supérieure
+262	软件包在流行病学研究中的应用 Using software apps in epidemiological research	zh-cn	epiapps	[16]	[163]	 Statistics and Data Analysis	 Peking University
+263	Chinese Politics Part 2 – China and the World	en	chinesepolitics2	[6, 20]	[35]	 Humanities  + Social Sciences	 The Hong Kong University of Science and Technology
+264	Cryptography I	en	crypto	[1, 11]	[1]	 Computer Science: Theory + Computer Science: Systems & Security	 Stanford University
+265	The American Disease: Drugs and Drug Control in the USA	en	americandisease	[3, 8]	[31]	 Medicine + Health & Society	 University of Florida
+266	Practical Ethics	en	practicalethics	[6]	[4]	 Humanities 	 Princeton University
+267	Passion Driven Statistics	en	pdstatistics	[16]	[34]	 Statistics and Data Analysis	 Wesleyan University
+268	Gestion des aires protégées en Afrique	fr	apafrique	[6, 10]	[16]	 Humanities  + Biology & Life Sciences	 École Polytechnique Fédérale de Lausanne
+269	Bioelectricity: A Quantitative Approach	en	bioelectricity	[10, 23, 26]	[7]	 Biology & Life Sciences + Physics + Teacher Professional Development	 Duke University
+270	Genome Sequencing (Bioinformatics II)	en	assembly	[1, 5, 10, 12]	[53]	 Computer Science: Theory + Mathematics + Biology & Life Sciences + Computer Science: Software Engineering	 University of California, San Diego
+271	Understanding and Improving the US Healthcare System	en	ushealthcare	[3, 8]	[3]	 Medicine + Health & Society	 University of Michigan
+272	Introduction to Quantum Optics	en	qoptintro	[9, 23]	[64]	 Physical & Earth Sciences + Physics	 Ludwig-Maximilians-Universität München (LMU)
+273	Democratic Development	en	democraticdev	[6, 20]	[1]	 Humanities  + Social Sciences	 Stanford University
+274	Introduction to Psychology	en	intropsych	[20]	[11]	 Social Sciences	 University of Toronto
+275	Process Mining: Data science in Action	en	procmin	[4, 13, 16, 17]	[177]	 Information, Tech & Design + Business & Management + Statistics and Data Analysis + Computer Science: Artificial Intelligence	 Eindhoven University of Technology
+276	Understanding Terrorism and the Terrorist Threat	en	understandingterror	[20]	[32]	 Social Sciences	 University of Maryland, College Park
+277	Understanding Violence	en	violence	[6, 8, 20]	[23]	 Humanities  + Health & Society + Social Sciences	 Emory University
+278	Content Strategy for Professionals 1: Engaging Audiences for Your Organization	en	contentstrategy	[4, 13]	[54]	 Information, Tech & Design + Business & Management	 Northwestern University
+279	The Olympic Games and the Media	en	olympicgames	[4, 6, 13, 20]	[80]	 Information, Tech & Design + Humanities  + Business & Management + Social Sciences	 Universitat Autònoma de Barcelona
+280	Introduction to Mathematical Thinking	en	maththink	[5]	[1]	 Mathematics	 Stanford University
+281	Natural Language Processing	en	nlangp	[17]	[40]	 Computer Science: Artificial Intelligence	 Columbia University
+282	Exploring Light	en	explorelight	[9, 10, 14, 23, 24, 26]	[108]	 Physical & Earth Sciences + Biology & Life Sciences + Education + Physics + Chemistry + Teacher Professional Development	 Exploratorium
+283	Global Adolescent Health	en	adolescenthealth	[3, 8, 14]	[33]	 Medicine + Health & Society + Education	 The University of Melbourne
+284	Neural Networks for Machine Learning	en	neuralnets	[16, 17]	[11]	 Statistics and Data Analysis + Computer Science: Artificial Intelligence	 University of Toronto
+285	Linear Circuits	en	circuits	[15]	[9]	 Engineering	 Georgia Institute of Technology
+286	The Bible's Prehistory, Purpose, and Political Future	en	biblefuture	[6, 20]	[23]	 Humanities  + Social Sciences	 Emory University
+287	First-Year Composition 2.0	en	gtcomp	[6]	[9]	 Humanities 	 Georgia Institute of Technology
+288	America Through Foreign Eyes	en	foreigneyes	[6, 20]	[13]	 Humanities  + Social Sciences	 Rice University
+289	Global Health and Humanitarianism	en	health	[]	[147]		 University of Manchester
+290	Latin American Culture	en	latinamericanculture	[6, 20]	[62]	 Humanities  + Social Sciences	 Tecnológico de Monterrey
+291	Foundations of Teaching for Learning 6: Introduction to Student Assessment	en	teach6	[14, 26]	[106]	 Education + Teacher Professional Development	 Commonwealth Education Trust
+292	Rédaction de contrats	fr	contrats	[21]	[49]	 Law	 University of Geneva
+293	Guinea Pigs, Heroes & Desperate Patients: The History & Ethics of Human Research	en	humanresearch	[3, 6, 8, 10, 20]	[8]	 Medicine + Humanities  + Health & Society + Biology & Life Sciences + Social Sciences	 Johns Hopkins University
+294	The Brain-Targeted Teaching® Model for 21st Century Schools	en	braintargeted	[14, 26]	[8]	 Education + Teacher Professional Development	 Johns Hopkins University
+295	Comic Books and Graphic Novels	en	comics	[6, 22]	[71, 126]	 Humanities  + Arts	 University of Colorado Boulder + University of Colorado System
+296	Applied Regression Analysis	en	appliedregression	[2, 3, 4, 5, 8, 16]	[28]	 Economics & Finance + Medicine + Information, Tech & Design + Mathematics + Health & Society + Statistics and Data Analysis	 The Ohio State University
+297	e-Learning Ecologies	en	elearning	[4, 14, 26]	[17]	 Information, Tech & Design + Education + Teacher Professional Development	 University of Illinois at Urbana-Champaign
+298	Introducción a la Gestión de Operaciones	es	whartonoperationses	[13]	[6]	 Business & Management	 University of Pennsylvania
+299	Inquiry Science Learning: Perspectives and Practices 1 - Science Leadership	en	scileadership	[14, 26]	[13]	 Education + Teacher Professional Development	 Rice University
+300	History of the Slave South	en	slavesouth	[6, 20]	[6]	 Humanities  + Social Sciences	 University of Pennsylvania
+301	Using The Next Generation Science Standards for Students’ Deeper Understanding 	en	sciframework	[14, 26]	[13]	 Education + Teacher Professional Development	 Rice University
+302	Computational Methods for Data Analysis	en	compmethods	[16]	[15]	 Statistics and Data Analysis	 University of Washington
+303	Introduction to Computational Arts: Visual Arts	en	compartsvisual	[22]	[117]	 Arts	 The State University of New York
+304	Canine Theriogenology for Dog Enthusiasts	en	theriogenology	[3, 8, 10]	[50]	 Medicine + Health & Society + Biology & Life Sciences	 University of Minnesota
+305	Hardware Security	en	hardwaresec	[11, 15]	[32]	 Computer Science: Systems & Security + Engineering	 University of Maryland, College Park
+306	中国古代文化	zh-cn	pkuacc	[6]	[163]	 Humanities 	 Peking University
+307	Epigenetic Control of Gene Expression	en	epigenetics	[3, 10]	[33]	 Medicine + Biology & Life Sciences	 The University of Melbourne
+308	Cloud Computing Concepts: Part 2	en	cloudcomputing2	[1, 4, 12, 15]	[17]	 Computer Science: Theory + Information, Tech & Design + Computer Science: Software Engineering + Engineering	 University of Illinois at Urbana-Champaign
+309	Preparing for the AP* Calculus AB and BC Exams (Part 2 - Integral Calculus)	en	apcalcpart2	[5]	[119]	 Mathematics	 University of Houston System
+310	Introduction to Electronics	en	introtoelectronics	[15]	[9]	 Engineering	 Georgia Institute of Technology
+311	Computer Science 101	en	cs101	[12]	[1]	 Computer Science: Software Engineering	 Stanford University
+312	Heterogeneous Parallel Programming	en	hetero	[11, 12]	[17]	 Computer Science: Systems & Security + Computer Science: Software Engineering	 University of Illinois at Urbana-Champaign
+313	Introduction à la programmation orientée objet (en C++)	fr	intropoocpp	[12]	[16]	 Computer Science: Software Engineering	 École Polytechnique Fédérale de Lausanne
+314	Health Leadership	en	healthleadership	[8, 13, 20]	[155]	 Health & Society + Business & Management + Social Sciences	 UNSW Australia (The University of New South Wales)
+315	Fantasy and Science Fiction: The Human Mind, Our Modern World	en	fantasysf	[6]	[3]	 Humanities 	 University of Michigan
+316	Growing Old Around the Globe	en	oldglobe	[3, 8]	[6]	 Medicine + Health & Society	 University of Pennsylvania
+317	运营管理概论（中文版）	zh-cn	whartonoperationszh	[13]	[6]	 Business & Management	 University of Pennsylvania
+318	Algorithms: Design and Analysis, Part 2	en	algo2	[1]	[1]	 Computer Science: Theory	 Stanford University
+319	Global Sustainable Energy: Past, Present and Future	en	globalenergy	[25]	[31]	 Energy & Earth Sciences	 University of Florida
+320	Computer Networks	en	comnetworks	[4, 11, 15]	[15]	 Information, Tech & Design + Computer Science: Systems & Security + Engineering	 University of Washington
+321	The Camera Never Lies	en	lyingcamera	[6, 18]	[26]	 Humanities  + Music, Film, and Audio	 University of London
+322	機器學習基石 (Machine Learning Foundations)	zh-tw	ntumlone	[17]	[75]	 Computer Science: Artificial Intelligence	 National Taiwan University
+323	L'Art des Structures 2 : treillis, poutres, dalles et cadres	fr	structures2	[15]	[16]	 Engineering	 École Polytechnique Fédérale de Lausanne
+324	Algorithmic Thinking (Part 2)	en	algorithmicthink2	[1, 12]	[13]	 Computer Science: Theory + Computer Science: Software Engineering	 Rice University
+325	The Bilingual Brain	en	bibrain	[10, 20]	[119]	 Biology & Life Sciences + Social Sciences	 University of Houston System
+326	Science from Superheroes to Global Warming	en	scientificthinking	[25]	[30]	 Energy & Earth Sciences	 University of California, Irvine
+327	Электричество и магнетизм. Часть 2 (Electricity and Magnetism. Part 2)	ru	electricity2	[23]	[176]	 Physics	 Moscow Institute of Physics and Technology
+328	Einführung in Computer Vision	de	compvision	[17]	[78]	 Computer Science: Artificial Intelligence	 Technische Universität München (TUM)
+329	An Introduction to Functional Analysis	en	functionalanalysis	[5]	[128]	 Mathematics	 CentraleSupélec
+330	Wind, Waves and Tides: Alternative Energy Systems	en	windwavetide	[15, 25]	[11]	 Engineering + Energy & Earth Sciences	 University of Toronto
+331	法与社会   Law and Society	zh-cn	sjtula014	[21]	[150]	 Law	 Shanghai Jiao Tong University
+332	粒子世界探秘 Exploring Particle World	zh-cn	sjtujxdepw	[9, 23]	[150]	 Physical & Earth Sciences + Physics	 Shanghai Jiao Tong University
+333	Supply Chain Management: A Learning Perspective 	en	supplychain	[4, 13, 20]	[178]	 Information, Tech & Design + Business & Management + Social Sciences	 Korea Advanced Institute of Science and Technology
+334	Advertising and Society	en	adsoc	[6, 13, 18, 20, 22]	[7]	 Humanities  + Business & Management + Music, Film, and Audio + Social Sciences + Arts	 Duke University
+335	Экономика труда (Labor economics)	ru	laborec	[2]	[160]	 Economics & Finance	 Higher School of Economics
+336	21st Century American Foreign Policy	en	afp21stcentury	[20]	[7]	 Social Sciences	 Duke University
+337	Understanding the Brain: The Neurobiology of Everyday Life	en	neurobio	[3, 8, 10]	[102]	 Medicine + Health & Society + Biology & Life Sciences	 The University of Chicago
+338	Моделирование биологических молекул на GPU (Biomolecular modeling on GPU)	ru	biomodeling	[10, 23, 24]	[176]	 Biology & Life Sciences + Physics + Chemistry	 Moscow Institute of Physics and Technology
+339	Circadian clocks: how rhythms structure life	en	circaclock	[3, 8, 10]	[64]	 Medicine + Health & Society + Biology & Life Sciences	 Ludwig-Maximilians-Universität München (LMU)
+340	论文写作与检索（Academic Writing and Research）	zh-cn	legalresearch	[6, 14, 20, 21]	[163]	 Humanities  + Education + Social Sciences + Law	 Peking University
+341	普通物理學 - 電磁學、光學及近代物理	zh-tw	genphysem	[9]	[75]	 Physical & Earth Sciences	 National Taiwan University
+342	 K-12 Blended & Online Learning	en	k12blendedlearning	[14, 26]	[123]	 Education + Teacher Professional Development	 University System of Georgia
+343	Human Evolution: Past and Future	en	humanevolution	[10, 20]	[65]	 Biology & Life Sciences + Social Sciences	 University of Wisconsin–Madison
+344	Public Economics	en	publiceconom	[2]	[160]	 Economics & Finance	 Higher School of Economics
+345	Global Health: An Interdisciplinary Overview	en	globalhealthoverview	[3, 8]	[49]	 Medicine + Health & Society	 University of Geneva
+346	紅樓夢二──母神崇拜(The Red Chamber Dream 2)	zh-tw	rcd2	[6]	[75]	 Humanities 	 National Taiwan University
+347	Теория игр (Game Theory)	ru	gt	[2, 5]	[160]	 Economics & Finance + Mathematics	 Higher School of Economics
+348	Vaccines	en	vaccines	[3, 8]	[6]	 Medicine + Health & Society	 University of Pennsylvania
+349	Introduction to Computational Finance and Financial Econometrics	en	compfinance	[2]	[15]	 Economics & Finance	 University of Washington
+350	Introduction to Classical Music	en	introclassicalmusic	[6, 18, 22]	[109]	 Humanities  + Music, Film, and Audio + Arts	 Yale University
+351	Accountable Talk®: Conversation that Works	en	accountabletalk	[14, 26]	[36]	 Education + Teacher Professional Development	 University of Pittsburgh
+352	Rural Health Nursing	en	ruralnursing	[3, 8]	[120]	 Medicine + Health & Society	 University of New Mexico
+353	Analytic Combinatorics	en	ac	[1, 5]	[4]	 Computer Science: Theory + Mathematics	 Princeton University
+354	面向对象技术高级课程（The Advanced Object-Oriented Technology）	zh-cn	aoo	[12]	[163]	 Computer Science: Software Engineering	 Peking University
+355	Understanding 9/11: Why Did al Qai’da Attack America?	en	911aftermath	[20, 26]	[7]	 Social Sciences + Teacher Professional Development	 Duke University
+356	Practical tips to improve Asian American participation in cancer clinical trials	en	clinicaltrials	[3]	[1]	 Medicine	 Stanford University
+357	程序设计与算法（大学先修课）	zh-cn	program	[1]	[163]	 Computer Science: Theory	 Peking University
+358	Analyzing Global Trends for Business and Society	en	globaltrends	[2, 13, 20]	[6]	 Economics & Finance + Business & Management + Social Sciences	 University of Pennsylvania
+359	Graphene and 2-dimensional Materials	en	graphene	[15, 23, 24]	[147]	 Engineering + Physics + Chemistry	 University of Manchester
+360	Comparing Genes, Proteins, and Genomes (Bioinformatics III)	en	comparinggenomes	[1, 5, 10, 12]	[53]	 Computer Science: Theory + Mathematics + Biology & Life Sciences + Computer Science: Software Engineering	 University of California, San Diego
+361	Modern & Contemporary American Poetry	en	modernpoetry	[6, 22]	[6]	 Humanities  + Arts	 University of Pennsylvania
+362	Experimental Genome Science	en	genomescience	[10]	[6]	 Biology & Life Sciences	 University of Pennsylvania
+363	Making Better Group Decisions: Voting, Judgement Aggregation and Fair Division	en	votingfairdiv	[2, 5, 6, 17]	[32]	 Economics & Finance + Mathematics + Humanities  + Computer Science: Artificial Intelligence	 University of Maryland, College Park
+364	Curanderismo Part 2: Traditional Healing of the Spirit/Energy	en	tradhealingspirit	[3, 6, 8, 19]	[120]	 Medicine + Humanities  + Health & Society + Food and Nutrition	 University of New Mexico
+365	Introduction to Computational Arts	en	cdt208	[1, 4, 18, 22]	[117]	 Computer Science: Theory + Information, Tech & Design + Music, Film, and Audio + Arts	 The State University of New York
+366	Chemicals and Health	en	chemhealth	[8, 24]	[8]	 Health & Society + Chemistry	 Johns Hopkins University
+367	Medical Neuroscience	en	medicalneuro	[3, 10, 26]	[7]	 Medicine + Biology & Life Sciences + Teacher Professional Development	 Duke University
+368	Introduction to the Science of Cancer	en	cancer	[3, 8]	[28]	 Medicine + Health & Society	 The Ohio State University
+369	The Fiction of Relationship	en	relationship	[6]	[22]	 Humanities 	 Brown University
+370	The French Revolution	en	frenchrev	[6, 20]	[33]	 Humanities  + Social Sciences	 The University of Melbourne
+371	The Art of Teaching History: A Global Conversation for Secondary Educators 	en	teachinghist	[14, 26]	[13]	 Education + Teacher Professional Development	 Rice University
+372	Pluralidades em Português Brasileiro	pt-br	portestrangeiros	[14]	[208]	 Education	 Universidade Estadual de Campinas
+373	Algorithms, Part II	en	algs4partII	[1, 12]	[4]	 Computer Science: Theory + Computer Science: Software Engineering	 Princeton University
+374	Deafness in the 21st Century	en	deafness	[8, 14]	[147]	 Health & Society + Education	 University of Manchester
+375	Tropical Parasitology: Protozoans, Worms, Vectors and Human Diseases	en	parasitology	[3, 8]	[7, 245]	 Medicine + Health & Society	 Duke University
+376	Introduction to Databases	en	db	[11, 12]	[1]	 Computer Science: Systems & Security + Computer Science: Software Engineering	 Stanford University
+377	Structural Equation Model and its Applications | 结构方程模型及其应用	zh-cn	sem	[14, 16, 20]	[45]	 Education + Statistics and Data Analysis + Social Sciences	 The Chinese University of Hong Kong
+378	Interprofessional Healthcare Informatics 	en	newwayhealthcare	[4, 8, 20]	[50]	 Information, Tech & Design + Health & Society + Social Sciences	 University of Minnesota
+379	Healthcare Innovation and Entrepreneurship	en	healthcareinnovation	[8, 13]	[7]	 Health & Society + Business & Management	 Duke University
+380	Chemistry	en	chemistry1	[24]	[127]	 Chemistry	 University of Kentucky
+381	Career 911: Your Future Job in Medicine and Healthcare	en	healthcarejobs	[3, 8, 13, 14]	[54]	 Medicine + Health & Society + Business & Management + Education	 Northwestern University
+382	Statistical Thermodynamics: Molecules to Machines	en	stathermo	[15, 23, 24, 25]	[151]	 Engineering + Physics + Chemistry + Energy & Earth Sciences	
+383	Introduction aux droits de l’homme	fr	droitshomme	[6, 21]	[49]	 Humanities  + Law	 University of Geneva
+384	Cloud Computing Capstone	en	cloudcapstone	[12]	[17]	 Computer Science: Software Engineering	 University of Illinois at Urbana-Champaign
+385	From Nand to Tetris / Part I	en	nand2tetris1	[11, 12, 15]	[24]	 Computer Science: Systems & Security + Computer Science: Software Engineering + Engineering	 Hebrew University of Jerusalem
+386	Ancient Egypt: A history in six objects	en	ancientegypt	[6]	[147]	 Humanities 	 University of Manchester
+387	MRI Fundamentals	en	mrifundamentals	[3, 8, 15]	[178]	 Medicine + Health & Society + Engineering	 Korea Advanced Institute of Science and Technology
+388	Le Bien, le Juste, l'Utile. Introduction aux éthiques philosophiques	fr	ethique	[6]	[49]	 Humanities 	 University of Geneva
+389	Shaping the Way We Teach English, 1: The Landscape of English Language Teaching	en	shaping1landscape	[14, 26]	[185]	 Education + Teacher Professional Development	
+390	Math behind Moneyball	en	mathletics	[5, 13]	[119]	 Mathematics + Business & Management	 University of Houston System
+391	Principles of Computing (Part 2)	en	principlescomputing2	[1, 12]	[13]	 Computer Science: Theory + Computer Science: Software Engineering	 Rice University
+392	Engineering Life: Synbio, Bioethics & Public Policy	en	synbioethics	[8, 10, 15]	[8]	 Health & Society + Biology & Life Sciences + Engineering	 Johns Hopkins University
+393	Fundamentals of Human Nutrition	en	humannutrition	[8, 10, 19]	[31]	 Health & Society + Biology & Life Sciences + Food and Nutrition	 University of Florida
+394	Inquiry Science Learning: Perspectives and Practices 3 - Science Content Survey	en	scicontentsurvey	[14, 26]	[13]	 Education + Teacher Professional Development	 Rice University
+395	Corporate Finance Essentials	en	corpfinance	[2, 13]	[172]	 Economics & Finance + Business & Management	 IESE Business School
+396	Animal Behaviour	en	animalbehav	[10]	[33]	 Biology & Life Sciences	 The University of Melbourne
+397	Scientific Humanities	en	sh	[6, 20]	[210]	 Humanities  + Social Sciences	 Sciences Po
+398	Programming Mobile Services for Android Handheld Systems: Communication	en	posacommunication	[4, 11, 12]	[37]	 Information, Tech & Design + Computer Science: Systems & Security + Computer Science: Software Engineering	 Vanderbilt University
+399	Logic: Language and Information 1	en	logic1	[1, 5, 6, 15, 22]	[33]	 Computer Science: Theory + Mathematics + Humanities  + Engineering + Arts	 The University of Melbourne
+400	Galaxies and Cosmology	en	cosmo	[23]	[12]	 Physics	 Caltech
+401	Introduction to Cataract Surgery	en	cataractsurgery	[3, 8]	[3]	 Medicine + Health & Society	 University of Michigan
+402	Fundamentals of Electrical Engineering Laboratory	en	eefunlab	[15]	[13]	 Engineering	 Rice University
+403	University Teaching 101	en	univteaching101	[6, 14, 20, 26]	[8]	 Humanities  + Education + Social Sciences + Teacher Professional Development	 Johns Hopkins University
+404	Философия культуры (Philosophy of Culture)	ru	philculture	[6]	[160]	 Humanities 	 Higher School of Economics
+405	Cybersecurity Capstone Project	en	cybersecuritycapstone	[11]	[32]	 Computer Science: Systems & Security	 University of Maryland, College Park
+406	Text Retrieval and Search Engines	en	textretrieval	[4, 16, 17]	[17]	 Information, Tech & Design + Statistics and Data Analysis + Computer Science: Artificial Intelligence	 University of Illinois at Urbana-Champaign
+407	Information and Communication Technology (ICT) Accessibility 	en	digitalaccessibility	[4, 6, 14]	[9]	 Information, Tech & Design + Humanities  + Education	 Georgia Institute of Technology
+408	Natural Language Processing	en	nlp	[17]	[1]	 Computer Science: Artificial Intelligence	 Stanford University
+409	English Common Law: Structure and Principles	en	engcomlaw	[6, 21]	[26]	 Humanities  + Law	 University of London
+410	Bitcoin and Cryptocurrency Technologies	en	bitcointech	[11]	[4]	 Computer Science: Systems & Security	 Princeton University
+411	Introduction to Forensic Science	en	ntufsc	[10, 24]	[121]	 Biology & Life Sciences + Chemistry	 Nanyang Technological University, Singapore
+412	Power Onboarding	en	poweronboarding	[13]	[54]	 Business & Management	 Northwestern University
+413	機率 (Probability)	zh-tw	prob	[5, 15]	[75]	 Mathematics + Engineering	 National Taiwan University
+414	Finding Hidden Messages in DNA (Bioinformatics I)	en	hiddenmessages	[1, 5, 10, 12]	[53]	 Computer Science: Theory + Mathematics + Biology & Life Sciences + Computer Science: Software Engineering	 University of California, San Diego
+415	操作系统原理（Operating Systems）	zh-cn	os	[11]	[163]	 Computer Science: Systems & Security	 Peking University
+416	Healthcare Data Visualization	en	healthdatavisual	[3, 15]	[9]	 Medicine + Engineering	 Georgia Institute of Technology
+417	Intermediate Algebra	en	algebra	[5]	[30]	 Mathematics	 University of California, Irvine
+418	Science, Technology, and Society in China III: The Present & Policy Implications	en	stschina3	[20]	[35]	 Social Sciences	 The Hong Kong University of Science and Technology
+419	程序设计实习 / Practice on Programming	zh-cn	pkupop	[12]	[163]	 Computer Science: Software Engineering	 Peking University
+420	Dino 101: Dinosaur Paleobiology	en	dino101	[9, 10]	[146]	 Physical & Earth Sciences + Biology & Life Sciences	 University of Alberta
+421	Approche pluridisciplinaire du dopage	fr	dopage	[8, 20]	[159]	 Health & Society + Social Sciences	 University of Lausanne
+422	Understanding China, 1700-2000: A Data Analytic Approach, Part 2	en	newchinahistory2	[6, 20]	[35]	 Humanities  + Social Sciences	 The Hong Kong University of Science and Technology
+423	How Green Is That Product? An Introduction to Life Cycle Environmental Assessment	en	introtolca	[15, 16, 25]	[54]	 Engineering + Statistics and Data Analysis + Energy & Earth Sciences	 Northwestern University
+424	From the Repertoire: Western Music History through Performance	en	musichistoryperforms	[6, 18]	[79]	 Humanities  + Music, Film, and Audio	 Curtis Institute of Music
+425	Latin American Migration	en	latinmigration	[20]	[28]	 Social Sciences	 The Ohio State University
+426	Spacebooks. An Introduction To Extraterrestrial Literature	en	spacebooks	[6, 18]	[93]	 Humanities  + Music, Film, and Audio	 University of Zurich
+427	Computational Molecular Evolution	en	molevol	[10, 16]	[57]	 Biology & Life Sciences + Statistics and Data Analysis	 Technical University of Denmark (DTU)
+428	Content Strategy for Professionals 2: Expanding Your Content’s Impact and Reach	en	growingaudiences	[4, 13]	[54]	 Information, Tech & Design + Business & Management	 Northwestern University
+429	Information Security and Risk Management in Context	en	inforiskman	[4, 11, 13]	[15]	 Information, Tech & Design + Computer Science: Systems & Security + Business & Management	 University of Washington
+430	Introduction to Chemistry:  Structures and Solutions	en	chem992	[9, 24, 26]	[7]	 Physical & Earth Sciences + Chemistry + Teacher Professional Development	 Duke University
+431	Sports and Building Aerodynamics	en	spobuildaerodynamics	[4, 15, 23]	[177]	 Information, Tech & Design + Engineering + Physics	 Eindhoven University of Technology
+432	Emerging Trends & Technologies in the Virtual K-12 Classroom	en	k12virtualtrends	[4, 14, 26]	[30]	 Information, Tech & Design + Education + Teacher Professional Development	 University of California, Irvine
+433	An Introduction to Interactive Programming in Python (Part 2)	en	interactivepython2	[12]	[13]	 Computer Science: Software Engineering	 Rice University
+434	Analytical Chemistry / Instrumental Analysis	en	analyticalchem	[24]	[13]	 Chemistry	 Rice University
+435	Learn to Program: Crafting Quality Code	en	programming2	[12]	[11]	 Computer Science: Software Engineering	 University of Toronto
+436	Sustainable Agricultural Land Management	en	sustainableag	[13, 19]	[31]	 Business & Management + Food and Nutrition	 University of Florida
+437	GPS: An Introduction to Satellite Navigation, with an interactive Worldwide Laboratory using Smartphones	en	gpslab	[9, 15]	[1]	 Physical & Earth Sciences + Engineering	 Stanford University
+438	Core Concepts in Data Analysis	en	datan	[16]	[160]	 Statistics and Data Analysis	 Higher School of Economics
+439	Introduction to Household Water Treatment and Safe Storage	en	hwts	[]	[16]		 École Polytechnique Fédérale de Lausanne
+440	Экономика для неэкономистов (Economics for non-economists)	ru	ecnonec	[2]	[160]	 Economics & Finance	 Higher School of Economics
+441	The Changing Global Order	en	globalorder	[6, 20, 21]	[25, 49]	 Humanities  + Social Sciences + Law	 Universiteit Leiden + University of Geneva
+442	Coding the Matrix: Linear Algebra through Computer Science Applications	en	matrix	[1, 5, 16, 17]	[22]	 Computer Science: Theory + Mathematics + Statistics and Data Analysis + Computer Science: Artificial Intelligence	 Brown University
+443	Emergence of Life	en	emergenceoflife	[9, 10]	[17]	 Physical & Earth Sciences + Biology & Life Sciences	 University of Illinois at Urbana-Champaign
+444	Software Security 	en	softwaresec	[11]	[32]	 Computer Science: Systems & Security	 University of Maryland, College Park
+445	Analyzing the Universe	en	analyze	[23]	[67]	 Physics	 Rutgers the State University of New Jersey
+446	数学之旅 The Journey of Mathematics	zh-cn	sjtuma153	[5]	[150]	 Mathematics	 Shanghai Jiao Tong University
+447	VLSI CAD:  Logic to Layout	en	vlsicad	[11, 15]	[17]	 Computer Science: Systems & Security + Engineering	 University of Illinois at Urbana-Champaign
+448	Assessment and Teaching of 21st Century Skills	en	atc21s	[14, 26]	[33]	 Education + Teacher Professional Development	 The University of Melbourne
+449	Genomic and Precision Medicine	en	genomicmedicine	[3]	[10]	 Medicine	 University of California, San Francisco
+450	Social Psychology	en	socialpsychology	[8, 13, 14, 20, 26]	[34]	 Health & Society + Business & Management + Education + Social Sciences + Teacher Professional Development	 Wesleyan University
+451	中國古代歷史與人物－－秦始皇	zh-tw	chinesehistory	[6]	[75]	 Humanities 	 National Taiwan University
+452	Linear and Discrete Optimization	en	linearopt	[1, 5]	[16]	 Computer Science: Theory + Mathematics	 École Polytechnique Fédérale de Lausanne
+453	Social and Economic Networks:  Models and Analysis	en	networksonline	[1, 2, 5, 16, 20]	[1]	 Computer Science: Theory + Economics & Finance + Mathematics + Statistics and Data Analysis + Social Sciences	 Stanford University
+454	Scaling operations: Linking strategy and execution	en	scalingoperations	[2, 13, 16]	[54]	 Economics & Finance + Business & Management + Statistics and Data Analysis	 Northwestern University
+455	Interactive Computer Graphics with WebGL	en	webgl	[4, 12]	[120]	 Information, Tech & Design + Computer Science: Software Engineering	 University of New Mexico
+456	Big Data Science with the BD2K-LINCS Data Coordination and Integration Center	en	bd2klincs	[3, 5, 10, 16, 17]	[27]	 Medicine + Mathematics + Biology & Life Sciences + Statistics and Data Analysis + Computer Science: Artificial Intelligence	 Icahn School of Medicine at Mount Sinai
+457	Probabilistic Graphical Models	en	pgm	[17]	[1]	 Computer Science: Artificial Intelligence	 Stanford University
+458	Enhance Your Career and Employability Skills	en	career	[1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]	[26]	 Computer Science: Theory + Economics & Finance + Medicine + Information, Tech & Design + Mathematics + Humanities  + Health & Society + Physical & Earth Sciences + Biology & Life Sciences + Computer Science: Systems & Security + Computer Science: Software Engineering + Business & Management + Education + Engineering + Statistics and Data Analysis + Computer Science: Artificial Intelligence + Music, Film, and Audio + Food and Nutrition + Social Sciences + Law + Arts + Physics + Chemistry + Energy & Earth Sciences + Teacher Professional Development	 University of London
+459	Introduction to Acoustics (Part 1)	en	acoustics1	[15, 18, 23]	[178]	 Engineering + Music, Film, and Audio + Physics	 Korea Advanced Institute of Science and Technology
+460	Chicken Behaviour and Welfare	en	chickens	[10, 19]	[14]	 Biology & Life Sciences + Food and Nutrition	 The University of Edinburgh
+461	Initiation à la théorie des distributions	fr	distributions	[5]	[66]	 Mathematics	 École Polytechnique
+462	The Social Context of Mental Health and Illness	en	mentalhealth	[8]	[11]	 Health & Society	 University of Toronto
+463	Women and the Civil Rights Movement	en	womencivilrights	[6]	[32]	 Humanities 	 University of Maryland, College Park
+464	The Caltech-JPL Summer School on Big Data Analytics	en	bigdataschool	[16]	[12]	 Statistics and Data Analysis	 Caltech
+465	Fundamentals of Pharmacology	en	pharm101	[3]	[6]	 Medicine	 University of Pennsylvania
+466	Geodesign: Change Your World	en	geodesign	[4, 9, 25]	[51]	 Information, Tech & Design + Physical & Earth Sciences + Energy & Earth Sciences	 The Pennsylvania State University
+467	American Education Reform: History, Policy, Practice	en	edref	[6, 14, 20]	[6]	 Humanities  + Education + Social Sciences	 University of Pennsylvania
+468	Preparing for the AP* Calculus AB and BC Exams (Part 1 - Differential Calculus)	en	apcalcpart1	[5]	[119]	 Mathematics	 University of Houston System
+469	History and Future of (Mostly) Higher Education	en	highered	[4, 6, 14, 20, 26]	[7]	 Information, Tech & Design + Humanities  + Education + Social Sciences + Teacher Professional Development	 Duke University
+470	Teaching Statistical Thinking: Part 1 Descriptive Statistics	en	teachstats1	[14, 16, 26]	[7]	 Education + Statistics and Data Analysis + Teacher Professional Development	 Duke University
+471	Statistics for Genomic Data Science	en	genstats	[4, 9, 10, 16]	[8]	 Information, Tech & Design + Physical & Earth Sciences + Biology & Life Sciences + Statistics and Data Analysis	 Johns Hopkins University
+472	Applied Logistic Regression	en	logisticregression	[2, 3, 4, 5, 8, 16]	[28]	 Economics & Finance + Medicine + Information, Tech & Design + Mathematics + Health & Society + Statistics and Data Analysis	 The Ohio State University
+473	Initiation à la programmation (en Java)	fr	initprogjava	[12]	[16]	 Computer Science: Software Engineering	 École Polytechnique Fédérale de Lausanne
+474	Video Games and Learning	en	videogameslearning	[4, 14]	[65]	 Information, Tech & Design + Education	 University of Wisconsin–Madison
+475	The Clinical Psychology of Children and Young People	en	clinicalpsych	[3, 8, 10, 20, 26]	[14]	 Medicine + Health & Society + Biology & Life Sciences + Social Sciences + Teacher Professional Development	 The University of Edinburgh
+476	Sleep: Neurobiology, Medicine, and Society	en	sleep	[3, 8, 10]	[3]	 Medicine + Health & Society + Biology & Life Sciences	 University of Michigan
+477	Nutrition and Physical Activity for Health	en	nutritionforhealth	[14, 19]	[36]	 Education + Food and Nutrition	 University of Pittsburgh
+478	The Fundamentals of Computing Specialization Capstone Exam	en	foccapstone2	[1, 12]	[13]	 Computer Science: Theory + Computer Science: Software Engineering	 Rice University
+479	Sustainability in Practice	en	sustaininprac	[4, 6, 13, 20, 25]	[6]	 Information, Tech & Design + Humanities  + Business & Management + Social Sciences + Energy & Earth Sciences	 University of Pennsylvania
+480	Understanding Video Games	en	uvg	[4, 6, 18, 22]	[146]	 Information, Tech & Design + Humanities  + Music, Film, and Audio + Arts	 University of Alberta
+481	Introduction to Computational Arts: Audio	en	compartsaudio	[18]	[117]	 Music, Film, and Audio	 The State University of New York
+482	市场营销概论 (中文版）	zh-cn	whartonmarketingzh	[13]	[6]	 Business & Management	 University of Pennsylvania
+483	Physics 1 for Physical Science Majors	en	physics1	[23]	[71, 126]	 Physics	 University of Colorado Boulder + University of Colorado System
+484	Performance Assessment in the Virtual Classroom	en	virtualassessment	[14]	[30]	 Education	 University of California, Irvine
+485	Discrete Inference and Learning in Artificial Vision	en	artificialvision	[17]	[128]	 Computer Science: Artificial Intelligence	 CentraleSupélec
+486	Molecular Evolution (Bioinformatics IV)	en	molecularevolution	[1, 4, 5, 10, 12]	[53]	 Computer Science: Theory + Information, Tech & Design + Mathematics + Biology & Life Sciences + Computer Science: Software Engineering	 University of California, San Diego
+487	Preparing for the AP Physics 1 Exam	en	apphysics1	[23]	[119]	 Physics	 University of Houston System
+488	Virtual Teacher Final Project	en	vtfinalproject	[14]	[30]	 Education	 University of California, Irvine
+489	Введение в российское налоговое право (Introduction to the Russian Tax Law)	ru	taxlaw	[2, 21]	[160]	 Economics & Finance + Law	 Higher School of Economics
+490	Innovación educativa con recursos abiertos	es	innovacionrea	[14]	[62]	 Education	 Tecnológico de Monterrey
+491	The Art and Archaeology of Ancient Nubia	en	ancientnubia	[6, 20, 22]	[23]	 Humanities  + Social Sciences + Arts	 Emory University
+492	Web Intelligence and Big Data	en	bigdata	[17]	[19]	 Computer Science: Artificial Intelligence	
+493	Curanderismo Part 1: Traditional Healing of the Body	en	tradhealingbody	[3, 6, 8, 19]	[120]	 Medicine + Humanities  + Health & Society + Food and Nutrition	 University of New Mexico
+494	Powerful Tools for Teaching and Learning: Digital Storytelling	en	digitalstorytelling	[4, 14, 26]	[119]	 Information, Tech & Design + Education + Teacher Professional Development	 University of Houston System
+495	Pattern Discovery in Data Mining	en	patterndiscovery	[4, 12, 16]	[17]	 Information, Tech & Design + Computer Science: Software Engineering + Statistics and Data Analysis	 University of Illinois at Urbana-Champaign
+496	Networks: Friends, Money, and Bytes	en	friendsmoneybytes	[2, 4, 11]	[4]	 Economics & Finance + Information, Tech & Design + Computer Science: Systems & Security	 Princeton University
+497	L'art des structures 1 : Câbles et arcs	fr	structures	[15]	[16]	 Engineering	 École Polytechnique Fédérale de Lausanne
+498	Living with Dementia: Impact on Individuals, Caregivers, Communities and Societies	en	dementiacare	[3, 8, 20]	[8]	 Medicine + Health & Society + Social Sciences	 Johns Hopkins University
+499	Data Analysis and Statistical Inference 	en	statistics	[16, 26]	[7]	 Statistics and Data Analysis + Teacher Professional Development	 Duke University
+500	Common Core in Action: Math Classroom Challenges- Using Formative Assessment to Guide Instruction	en	ccss-math1	[5, 14, 26]	[103]	 Mathematics + Education + Teacher Professional Development	 New Teacher Center
+501	電磁學(Electromagnetics)	zh-tw	ntuem	[9]	[75]	 Physical & Earth Sciences	 National Taiwan University
+502	Cracking the Creativity Code: Part 1- Discovering Ideas	en	creativity	[2, 4, 13, 15, 20]	[129]	 Economics & Finance + Information, Tech & Design + Business & Management + Engineering + Social Sciences	 Technion - Israel Institute of Technology
+503	Inquiry Science Learning: Perspectives & Practices 4 - Student-Centered Inquiry	en	scistudentinquiry	[14, 26]	[13]	 Education + Teacher Professional Development	 Rice University
+504	Введение в биоинформатику (Introduction to Bioinformatics)	ru	bioinfo	[1, 4, 8, 10]	[179]	 Computer Science: Theory + Information, Tech & Design + Health & Society + Biology & Life Sciences	 Saint Petersburg State University
+505	Building an Information Risk Management Toolkit	en	inforisk	[4, 11, 13]	[15]	 Information, Tech & Design + Computer Science: Systems & Security + Business & Management	 University of Washington
+506	Australian literature: a rough guide	en	auslitroughguide	[6, 22]	[156]	 Humanities  + Arts	 University of Western Australia
+507	English Composition I	en	composition	[6, 14, 20, 26]	[7]	 Humanities  + Education + Social Sciences + Teacher Professional Development	 Duke University
+508	关爱生命--实用急救与自救技能	zh-cn	sjtufirstaid	[3, 8]	[150]	 Medicine + Health & Society	 Shanghai Jiao Tong University
+509	Teaching and Assessing Clinical Skills	en	clinicalskills	[3, 8]	[3]	 Medicine + Health & Society	 University of Michigan
+510	C++ For C Programmers	en	cplusplus4c	[12]	[56]	 Computer Science: Software Engineering	 University of California, Santa Cruz
+511	Nudge-it: Understanding obesity	en	nudgeit	[2, 3, 8, 10, 19]	[14]	 Economics & Finance + Medicine + Health & Society + Biology & Life Sciences + Food and Nutrition	 The University of Edinburgh
+512	Launching New Ventures	en	venture	[2, 4, 13]	[16]	 Economics & Finance + Information, Tech & Design + Business & Management	 École Polytechnique Fédérale de Lausanne
+513	Neuroethics	en	neuroethics	[8]	[6]	 Health & Society	 University of Pennsylvania
+514	Understanding Research: An Overview for Health Professionals	en	researchforhealth	[3, 8]	[10]	 Medicine + Health & Society	 University of California, San Francisco
+515	Curanderismo Part 3: Traditional Healing with Cultural Traditions	en	tradhealingculture	[3, 6, 8, 19]	[120]	 Medicine + Humanities  + Health & Society + Food and Nutrition	 University of New Mexico
+516	Nutrition for Health Promotion and Disease Prevention	en	nutrition	[2, 3, 8, 19]	[10]	 Economics & Finance + Medicine + Health & Society + Food and Nutrition	 University of California, San Francisco
+517	Forests and Humans: From the Midwest to Madagascar	en	forestshumans	[9, 10, 25]	[65]	 Physical & Earth Sciences + Biology & Life Sciences + Energy & Earth Sciences	 University of Wisconsin–Madison
+518	Audio Signal Processing for Music Applications	en	audio	[4, 15, 18]	[1, 225]	 Information, Tech & Design + Engineering + Music, Film, and Audio	 Stanford University
+519	Statistical Reasoning for Public Health 1: Estimation, Inference, & Interpretation	en	statreasoning	[3, 5, 10]	[8]	 Medicine + Mathematics + Biology & Life Sciences	 Johns Hopkins University
+520	Introduction to Tissue Engineering	en	tissue101	[10, 15]	[24]	 Biology & Life Sciences + Engineering	 Hebrew University of Jerusalem
+521	AstroTech: The Science and Technology behind Astronomical Discovery	en	astrotech	[9, 16, 23]	[14]	 Physical & Earth Sciences + Statistics and Data Analysis + Physics	 The University of Edinburgh
+522	История экономической мысли (History of Economic Thought)	ru	historyofec	[2]	[160]	 Economics & Finance	 Higher School of Economics
+523	Live!:  A History of Art for Artists, Animators and Gamers	en	livearthistory	[6, 18, 22]	[59]	 Humanities  + Music, Film, and Audio + Arts	 California Institute of the Arts
+524	Compilers	en	compilers	[11, 12]	[1]	 Computer Science: Systems & Security + Computer Science: Software Engineering	 Stanford University
+525	Introducción a la Contabilidad Financiera	es	whartonaccountinges	[13]	[6]	 Business & Management	 University of Pennsylvania
+526	Preparing for the AP* Calculus AB and BC Exams	en	apcalc	[5]	[119]	 Mathematics	 University of Houston System
+527	Dairy Production and Management	en	dairy	[10, 19]	[51]	 Biology & Life Sciences + Food and Nutrition	 The Pennsylvania State University
+528	Сравнительная политика (Comparative Politics)	ru	compol	[20]	[160]	 Social Sciences	 Higher School of Economics
+529	Preparation for General Chemistry	en	chemprep	[24]	[67]	 Chemistry	 Rutgers the State University of New Jersey
+530	Inspiring Leadership through Emotional Intelligence	en	lead-ei	[13, 14, 20]	[68]	 Business & Management + Education + Social Sciences	 Case Western Reserve University
+531	Managerial Accounting: Cost Behaviors, Systems, and Analysis	en	acctcostanalysis	[13]	[17]	 Business & Management	 University of Illinois at Urbana-Champaign
+532	Cryptography II	en	crypto2	[1, 11]	[1]	 Computer Science: Theory + Computer Science: Systems & Security	 Stanford University
+533	Financial Planning for Young Adults	en	personalfinance	[2, 13]	[17]	 Economics & Finance + Business & Management	 University of Illinois at Urbana-Champaign
+534	医学图像处理技术 Medical Image Analysis	zh-cn	sjtumia	[3, 12]	[150]	 Medicine + Computer Science: Software Engineering	 Shanghai Jiao Tong University
+535	Modeling Discrete Optimization	en	modelingoptimization	[17]	[33]	 Computer Science: Artificial Intelligence	 The University of Melbourne
+536	Programming Mobile Applications for Android Handheld Systems: Part 1	en	androidpart1	[4, 12]	[32]	 Information, Tech & Design + Computer Science: Software Engineering	 University of Maryland, College Park
+537	Foundations for Assisting in Home Care	en	hha	[3, 8, 14]	[117]	 Medicine + Health & Society + Education	 The State University of New York
+538	Game Theory II: Advanced Applications	en	gametheory2	[1, 2, 17]	[1]	 Computer Science: Theory + Economics & Finance + Computer Science: Artificial Intelligence	 Stanford University
+539	Foundations of Teaching for Learning 7: Being a Professional	en	teach7	[14, 26]	[106]	 Education + Teacher Professional Development	 Commonwealth Education Trust
+540	Big Data Analytics for Healthcare	en	bigdataanalytics	[3, 15]	[9]	 Medicine + Engineering	 Georgia Institute of Technology
+541	Éléments de Géomatique	fr	geomatique	[9, 15]	[16]	 Physical & Earth Sciences + Engineering	 École Polytechnique Fédérale de Lausanne
+542	Networked Life	en	networks	[2, 4, 17, 20]	[6]	 Economics & Finance + Information, Tech & Design + Computer Science: Artificial Intelligence + Social Sciences	 University of Pennsylvania
+543	Foundational Neuroscience for Perception and Action	en	foundationmedneuro	[3, 10, 26]	[7]	 Medicine + Biology & Life Sciences + Teacher Professional Development	 Duke University
+544	Climate Change Policy and Public Health	en	ccandph	[3, 8, 9, 10]	[65]	 Medicine + Health & Society + Physical & Earth Sciences + Biology & Life Sciences	 University of Wisconsin–Madison
+545	Health Literacy and Communication for Health Professionals	en	healthliteracy	[3, 8]	[124]	 Medicine + Health & Society	 University of Nebraska
+546	東坡詞 (Ci Poetry of Su Dong Po)	zh-tw	dpc	[6]	[75]	 Humanities 	 National Taiwan University
+547	Inquiry Science Learning: Perspectives and Practices 2 - Techniques for Success	en	inquirytechniques	[14, 26]	[13]	 Education + Teacher Professional Development	 Rice University
+548	Energy and the Earth	en	earthenergy	[9, 15, 25]	[65]	 Physical & Earth Sciences + Engineering + Energy & Earth Sciences	 University of Wisconsin–Madison
+549	Introduction to User Interface Design (Part 1)	en	uidesign1	[4]	[9]	 Information, Tech & Design	 Georgia Institute of Technology
+550	Wheels of Metals: Urban Mining for a Circular Economy	en	metals	[9, 14, 25]	[25]	 Physical & Earth Sciences + Education + Energy & Earth Sciences	 Universiteit Leiden
+551	Student Thinking at the Core	en	corethink	[14, 26]	[37]	 Education + Teacher Professional Development	 Vanderbilt University
+552	Representaciones Culturales de las Sexualidades 	es	representaciones	[6, 22]	[80]	 Humanities  + Arts	 Universitat Autònoma de Barcelona
+553	Technology and Ethics	en	techethics	[4, 6, 20]	[28]	 Information, Tech & Design + Humanities  + Social Sciences	 The Ohio State University
+554	Advanced Instructional Strategies in the Virtual Classroom	en	advancedvirtual	[]	[30]		 University of California, Irvine
+555	An Introduction to the U.S. Food System: Perspectives from Public Health	en	foodsys	[8, 19]	[8]	 Health & Society + Food and Nutrition	 Johns Hopkins University
+556	Global Affairs Final Project	en	globalaffairsfinal	[20]	[25, 49]	 Social Sciences	 Universiteit Leiden + University of Geneva
+557	Principles of Macroeconomics	en	macroeconomics	[2]	[33]	 Economics & Finance	 The University of Melbourne
+558	Understanding Russians: Contexts of Intercultural Communication	en	russians	[6]	[160]	 Humanities 	 Higher School of Economics
+559	Conception et mise en œuvre d'algorithmes.	fr	algoprog	[1]	[66]	 Computer Science: Theory	 École Polytechnique
+560	Институциональная экономика (Institutional economics)	ru	instec	[2]	[160]	 Economics & Finance	 Higher School of Economics
+561	Understanding the UK's 2015 General Election	en	ge2015	[6, 13, 16, 20]	[14]	 Humanities  + Business & Management + Statistics and Data Analysis + Social Sciences	 The University of Edinburgh
+562	Algorithms, Biology, and Programming for Beginners	en	algobioprogramming	[1, 4, 5, 10, 12]	[53]	 Computer Science: Theory + Information, Tech & Design + Mathematics + Biology & Life Sciences + Computer Science: Software Engineering	 University of California, San Diego
+563	American Health Policy: The Structure of the American Health Care System (Part I of II)	en	americanhealthsystem	[2, 8]	[6]	 Economics & Finance + Health & Society	 University of Pennsylvania
+564	Subsistence Marketplaces	en	subsistence	[13]	[17]	 Business & Management	 University of Illinois at Urbana-Champaign
+565	Algorithmic Thinking (Part 1)	en	algorithmicthink1	[1, 12]	[13]	 Computer Science: Theory + Computer Science: Software Engineering	 Rice University
+566	Valuing Projects and Companies	en	valuingcompanies	[2, 13]	[3]	 Economics & Finance + Business & Management	 University of Michigan
+567	Volcanic Eruptions: a material science.	en	volcano	[9, 25]	[64]	 Physical & Earth Sciences + Energy & Earth Sciences	 Ludwig-Maximilians-Universität München (LMU)
+568	人工智慧(Artificial Intelligence)	zh-tw	ai	[17]	[75]	 Computer Science: Artificial Intelligence	 National Taiwan University
+569	Recovering the Humankind's Past and Saving the Universal Heritage	en	recoveringthepast	[6]	[74]	 Humanities 	 Sapienza University of Rome
+570	Content Strategy for Professionals 3: Capstone Project	en	contentcapstone	[4, 13]	[54]	 Information, Tech & Design + Business & Management	 Northwestern University
+571	Brand Management: Aligning Business, Brand and Behaviour	en	brand	[13]	[26]	 Business & Management	 University of London
+572	More Introduction to Financial Accounting	en	accountingmore	[2, 13]	[6]	 Economics & Finance + Business & Management	 University of Pennsylvania
+573	Childbirth: A Global Perspective	en	pregnancychildbirth	[6, 8, 10, 20]	[23]	 Humanities  + Health & Society + Biology & Life Sciences + Social Sciences	 Emory University
+574	Latino Popular Culture for the Clueless	en	latinopop	[6]	[28]	 Humanities 	 The Ohio State University
+575	Computational Photography	en	compphoto	[4, 17]	[9]	 Information, Tech & Design + Computer Science: Artificial Intelligence	 Georgia Institute of Technology
+576	Conditions of War and Peace	en	warandpeace	[6, 20]	[76]	 Humanities  + Social Sciences	 The University of Tokyo
+577	The Language of Hollywood: Storytelling, Sound, and Color	en	hollywood	[6, 18]	[34]	 Humanities  + Music, Film, and Audio	 Wesleyan University
+578	Philosophy and the Sciences	en	philsci	[6, 9, 17, 23]	[14]	 Humanities  + Physical & Earth Sciences + Computer Science: Artificial Intelligence + Physics	 The University of Edinburgh
+579	Analysis of Algorithms	en	aofa	[1, 5]	[4]	 Computer Science: Theory + Mathematics	 Princeton University
+580	Globalization and You	en	globalization	[2, 6, 20]	[15]	 Economics & Finance + Humanities  + Social Sciences	 University of Washington
+581	Engaging Citizens:  A Game Changer for Development?	en	engagecitizen	[2, 4, 6, 20]	[73]	 Economics & Finance + Information, Tech & Design + Humanities  + Social Sciences	 The World Bank Group
+582	Rethinking Ageing:  Are we prepared to live longer?	en	ageing	[2, 4, 8, 20]	[33]	 Economics & Finance + Information, Tech & Design + Health & Society + Social Sciences	 The University of Melbourne
+583	The Beauty of Kunqu Opera | 崑曲之美	zh-tw	kunqu	[22]	[45]	 Arts	 The Chinese University of Hong Kong
+584	 Java程序设计	zh-cn	pkujava	[12]	[163]	 Computer Science: Software Engineering	 Peking University
+585	Physique des cellules solaires au silicium	fr	enrpv	[9, 23, 25]	[66]	 Physical & Earth Sciences + Physics + Energy & Earth Sciences	 École Polytechnique
+586	Reasoning, Data Analysis, & Writing Final Project	en	reasoningcapstone	[6, 16]	[7]	 Humanities  + Statistics and Data Analysis	 Duke University
+587	Vital Signs: Understanding What the Body Is Telling Us	en	vitalsigns	[3, 10]	[6]	 Medicine + Biology & Life Sciences	 University of Pennsylvania
+588	Confronting Gender Based Violence: Global Lessons with Case Studies from India	en	gbv	[3, 8, 20]	[8]	 Medicine + Health & Society + Social Sciences	 Johns Hopkins University
+589	Ocean Solutions	en	oceansolutions	[9, 10, 25]	[156]	 Physical & Earth Sciences + Biology & Life Sciences + Energy & Earth Sciences	 University of Western Australia
+590	Informatik für Ökonomen	de	inf4oec	[4, 13]	[93]	 Information, Tech & Design + Business & Management	 University of Zurich
+591	Changing Weather and Climate in the Great Lakes Region	en	greatlakesclimate	[8, 9, 20, 25, 26]	[65]	 Health & Society + Physical & Earth Sciences + Social Sciences + Energy & Earth Sciences + Teacher Professional Development	 University of Wisconsin–Madison
+592	Mining Massive Datasets	en	mmds	[11, 17]	[1]	 Computer Science: Systems & Security + Computer Science: Artificial Intelligence	 Stanford University
+593	Android Capstone Project	en	androidcapstone	[]	[32, 37]		 University of Maryland, College Park + Vanderbilt University
+594	TechniCity	en	techcity	[4]	[28]	 Information, Tech & Design	 The Ohio State University
+595	Algorithms, Part I	en	algs4partI	[1, 12]	[4]	 Computer Science: Theory + Computer Science: Software Engineering	 Princeton University
+596	Foundations of E-Commerce 	en	ntuecom	[4, 13]	[121]	 Information, Tech & Design + Business & Management	 Nanyang Technological University, Singapore
+597	Humanitarian communication : Addressing key challenges	en	hacommunication	[20]	[49]	 Social Sciences	 University of Geneva
+598	Exercise Physiology: Understanding the Athlete Within	en	exphys	[3, 10]	[33]	 Medicine + Biology & Life Sciences	 The University of Melbourne
+599	Critical Thinking in Global Challenges	en	criticalthinking	[8, 10, 25]	[14]	 Health & Society + Biology & Life Sciences + Energy & Earth Sciences	 The University of Edinburgh
+600	Machine Learning	en	machlearning	[16, 17]	[15]	 Statistics and Data Analysis + Computer Science: Artificial Intelligence	 University of Washington
+601	悖论：思维的魔方	zh-cn	paradox	[6]	[163]	 Humanities 	 Peking University
+602	操作系统与虚拟化安全	zh-cn	osvirtsecurity	[11]	[163]	 Computer Science: Systems & Security	 Peking University
+603	家庭社会学导论	zh-cn	pkufamilysociology	[20]	[163]	 Social Sciences	 Peking University
+604	Maps and the Geospatial Revolution	en	maps	[4, 16, 20]	[51]	 Information, Tech & Design + Statistics and Data Analysis + Social Sciences	 The Pennsylvania State University
+605	Conversations that Inspire: Coaching Learning, Leadership and Change	en	coaching	[6, 13, 14, 20]	[68]	 Humanities  + Business & Management + Education + Social Sciences	 Case Western Reserve University
+606	Beginning Game Programming with C#	en	gameprogramming	[12]	[126]	 Computer Science: Software Engineering	 University of Colorado System
+607	Introduction to Sociology	en	soc101	[20]	[4]	 Social Sciences	 Princeton University
+608	Algorithms: Design and Analysis, Part 1	en	algo	[1]	[1]	 Computer Science: Theory	 Stanford University
+609	Public-Private Partnerships (PPP): How can PPPs help deliver better services?	en	effectiveppp	[2, 6, 13, 15, 20]	[73]	 Economics & Finance + Humanities  + Business & Management + Engineering + Social Sciences	 The World Bank Group
+610	Analyse numérique pour ingénieurs	fr	analysenumerique	[5]	[16]	 Mathematics	 École Polytechnique Fédérale de Lausanne
+611	High Performance Scientific Computing	en	scicomp	[4, 16]	[15]	 Information, Tech & Design + Statistics and Data Analysis	 University of Washington
+612	Think Again: How to Reason and Argue	en	thinkagain	[6, 26]	[7]	 Humanities  + Teacher Professional Development	 Duke University
+613	Comprendre les Microcontrôleurs	fr	microcontroleurs	[4, 15]	[16]	 Information, Tech & Design + Engineering	 École Polytechnique Fédérale de Lausanne
+614	Drug Discovery, Development & Commercialization 	en	drugdiscovery	[3, 10]	[53]	 Medicine + Biology & Life Sciences	 University of California, San Diego
+615	Nutrition, Health, and Lifestyle: Issues and Insights	en	lifenutr	[10, 19]	[37]	 Biology & Life Sciences + Food and Nutrition	 Vanderbilt University
+616	Online Games: Literature, New Media, and Narrative	en	onlinegames	[6, 22]	[37]	 Humanities  + Arts	 Vanderbilt University
+617	Global Environmental Management	en	globalenvmanangement	[8, 9, 15, 20, 25]	[57]	 Health & Society + Physical & Earth Sciences + Engineering + Social Sciences + Energy & Earth Sciences	 Technical University of Denmark (DTU)
+618	Programmed cell death	en	pcd	[3, 10]	[64]	 Medicine + Biology & Life Sciences	 Ludwig-Maximilians-Universität München (LMU)
+619	Archaeology's Dirty Little Secrets	en	secrets	[6, 9, 20, 22, 25]	[22]	 Humanities  + Physical & Earth Sciences + Social Sciences + Arts + Energy & Earth Sciences	 Brown University
+620	Линейная алгебра (Linear Algebra)	ru	linalg	[5]	[160]	 Mathematics	 Higher School of Economics
+621	企业金融概论（中文版）	zh-cn	whartonfinancezh	[2, 13]	[6]	 Economics & Finance + Business & Management	 University of Pennsylvania
+622	Continuidad y desarrollo de la empresa familiar	es	empresafamiliar	[2, 13, 20]	[62]	 Economics & Finance + Business & Management + Social Sciences	 Tecnológico de Monterrey
+623	História da Contabilidade	pt-br	histcontabilidade	[2, 13]	[221]	 Economics & Finance + Business & Management	 Universidade de São Paulo
+624	Sustainability of Food Systems: A Global Life Cycle Perspective	en	globalfoodsystems	[2, 19, 25]	[50]	 Economics & Finance + Food and Nutrition + Energy & Earth Sciences	 University of Minnesota
+625	Water in the Western United States	en	waterwestus	[9, 14, 20, 26]	[71, 126]	 Physical & Earth Sciences + Education + Social Sciences + Teacher Professional Development	 University of Colorado Boulder + University of Colorado System
+626	Moralities of Everyday Life	en	moralities	[6, 20]	[109]	 Humanities  + Social Sciences	 Yale University
+627	Fog Networks and the Internet of Things	en	fog	[12, 15]	[4]	 Computer Science: Software Engineering + Engineering	 Princeton University
+628	Programming Mobile Services for Android Handheld Systems: Concurrency	en	posaconcurrency	[4, 11, 12]	[37]	 Information, Tech & Design + Computer Science: Systems & Security + Computer Science: Software Engineering	 Vanderbilt University
+629	Introducción al Marketing	es	whartonmarketinges	[13]	[6]	 Business & Management	 University of Pennsylvania
+630	New World, New Map: GPS for Today’s Music Industry	en	gpsmusic	[2, 6, 13, 18]	[116]	 Economics & Finance + Humanities  + Business & Management + Music, Film, and Audio	 West Virginia University
+631	Principles of Economics for Scientists	en	econ1scientists	[2]	[12]	 Economics & Finance	 Caltech
+632	Collaboration and Communication in Healthcare: Interprofessional Practice	en	interprofessional	[3, 8, 14]	[10]	 Medicine + Health & Society + Education	 University of California, San Francisco
+633	Science, Technology, and Society in China I: Basic Concepts	en	stschina1	[20]	[35]	 Social Sciences	 The Hong Kong University of Science and Technology
+634	Fundamentals of Music Theory	en	musictheory	[18]	[14]	 Music, Film, and Audio	 The University of Edinburgh
+635	Economics of Transition and Emerging Markets	en	etem	[2]	[160]	 Economics & Finance	 Higher School of Economics
+636	Responding to 9/11: Counterterrorism Policy in the 21st Century	en	respondingto911	[20, 26]	[7]	 Social Sciences + Teacher Professional Development	 Duke University
+637	Startup Engineering	en	startup	[12, 13, 16]	[1]	 Computer Science: Software Engineering + Business & Management + Statistics and Data Analysis	 Stanford University
+638	The Global Student's Introduction to U.S. Law	en	globalintrouslaw	[21]	[31]	 Law	 University of Florida
+639	Effective Classroom Interactions: Supporting Young Children’s Development	en	earlychildhood	[14, 26]	[18]	 Education + Teacher Professional Development	 University of Virginia
+640	Teaching goes massive: new skills required	en	massiveteaching	[14, 26]	[93]	 Education + Teacher Professional Development	 University of Zurich
+641	Take the Lead on Healthcare Quality Improvement	en	hcqualityimprovement	[3, 8]	[68]	 Medicine + Health & Society	 Case Western Reserve University
+642	Data Visualization	en	datavisualization	[4, 12, 16]	[17]	 Information, Tech & Design + Computer Science: Software Engineering + Statistics and Data Analysis	 University of Illinois at Urbana-Champaign
+643	Common Core in Action II: Exploring Literacy Design Collaborative Tools	en	cc2lit	[14, 26]	[103]	 Education + Teacher Professional Development	 New Teacher Center
+644	Aléatoire : une introduction aux probabilités 	fr	probas	[5]	[66]	 Mathematics	 École Polytechnique
+645	"""Pay Attention!!"" ADHD Through the Lifespan"	en	adhd	[3]	[6]	 Medicine	 University of Pennsylvania
+646	How to Succeed in College	en	succeedincollege	[14]	[127]	 Education	 University of Kentucky
+647	Learning for Sustainability: Developing a personal ethic	en	sustainability	[14, 20, 25, 26]	[14]	 Education + Social Sciences + Energy & Earth Sciences + Teacher Professional Development	 The University of Edinburgh
+648	История и теория медиа (History and theory of media)	ru	media	[6, 20]	[160]	 Humanities  + Social Sciences	 Higher School of Economics
+649	Introduction to Mathematical Philosophy	en	mathphil	[5, 6]	[64]	 Mathematics + Humanities 	 Ludwig-Maximilians-Universität München (LMU)
+650	Children Acquiring Literacy Naturally	en	childliteracy	[4, 14, 20]	[56]	 Information, Tech & Design + Education + Social Sciences	 University of California, Santa Cruz
+651	Cardiac Arrest, Hypothermia, and Resuscitation Science	en	cardiacarrest	[3]	[6]	 Medicine	 University of Pennsylvania
+652	Powerful Tools for Teaching and Learning: Web 2.0 Tools	en	newtechtools	[4, 14, 26]	[119]	 Information, Tech & Design + Education + Teacher Professional Development	 University of Houston System
+653	Rationing and Allocating Scarce Medical Resources	en	rationing	[8]	[6]	 Health & Society	 University of Pennsylvania
+654	Economic Growth and Distributive Justice	en	ecojustice	[2, 13, 21]	[110]	 Economics & Finance + Business & Management + Law	 Tel Aviv University
+655	The Role of the Renminbi in the International Monetary System 	en	renminbi	[2]	[45]	 Economics & Finance	 The Chinese University of Hong Kong
+656	Principles of Public Health	en	publichealth	[3, 8]	[30]	 Medicine + Health & Society	 University of California, Irvine
+657	Representing the Professional Athlete	en	sportsagents	[2, 8, 13, 21]	[68]	 Economics & Finance + Health & Society + Business & Management + Law	 Case Western Reserve University
+658	Computer Security	en	security	[11]	[1]	 Computer Science: Systems & Security	 Stanford University
+659	Основы корпоративных финансов (Fundamentals of Corporate Finance)	ru	corpfin	[2]	[160]	 Economics & Finance	 Higher School of Economics
+660	Pre-Calculus	en	precalculus	[5]	[30]	 Mathematics	 University of California, Irvine
+661	Music's Big Bang: The Genesis of Rock 'n' Roll	en	musicsbigbang	[18]	[31]	 Music, Film, and Audio	 University of Florida
+662	Data Management for Clinical Research	en	datamanagement	[4, 16]	[37]	 Information, Tech & Design + Statistics and Data Analysis	 Vanderbilt University
+663	Design: Creation of Artifacts in Society	en	design	[4, 13, 15, 22]	[6]	 Information, Tech & Design + Business & Management + Engineering + Arts	 University of Pennsylvania
+664	计算机辅助翻译原理与实践 Principles and Practice of Computer-Aided Translation	zh-cn	catmooc	[4, 12]	[163]	 Information, Tech & Design + Computer Science: Software Engineering	 Peking University
+665	Risk and Opportunity: Managing Risk for Development	en	managerisk	[2, 20]	[73]	 Economics & Finance + Social Sciences	 The World Bank Group
+666	Visual Perception and the Brain	en	visualpercepbrain	[10]	[7]	 Biology & Life Sciences	 Duke University
+667	Sexing the Canvas: Art and Gender	en	sexingthecanvas	[6, 22]	[33]	 Humanities  + Arts	 The University of Melbourne
+668	Surviving Disruptive Technologies	en	sdt	[4, 13]	[32]	 Information, Tech & Design + Business & Management	 University of Maryland, College Park
+669	Etkili Konuşma (Effective Speaking)	tr	etkilikonusma	[20]	[182]	 Social Sciences	 Koç University
+670	Understanding Media by Understanding Google	en	googlemedia	[2, 4, 13]	[54]	 Economics & Finance + Information, Tech & Design + Business & Management	 Northwestern University
+671	Villes africaines: Introduction à la planification urbaine / African cities : an introduction to urban planning	fr	villesafricaines	[6, 20]	[16]	 Humanities  + Social Sciences	 École Polytechnique Fédérale de Lausanne
+672	Conceptos y Herramientas para la Física Universitaria	es	cyhfisica	[5, 9, 14, 23]	[62]	 Mathematics + Physical & Earth Sciences + Education + Physics	 Tecnológico de Monterrey
+673	Structure Standing Still: The Statics of Everyday Objects	en	staticsofobjects	[15]	[31]	 Engineering	 University of Florida
+674	Reason and Persuasion: Thinking Through Three Dialogues By Plato	en	reasonandpersuasion	[20, 22]	[47]	 Social Sciences + Arts	 National University of Singapore
+675	Digital Analytics for Marketing Professionals: Marketing Analytics in Practice	en	dmanalyticspractice	[13]	[17]	 Business & Management	 University of Illinois at Urbana-Champaign
+676	Durabilité : état des lieux planétaire, scénarios envisageables	fr	durabilite	[6, 20]	[159]	 Humanities  + Social Sciences	 University of Lausanne
+677	Artificial Intelligence Planning	en	aiplan	[17]	[14]	 Computer Science: Artificial Intelligence	 The University of Edinburgh
+678	Global Tuberculosis (TB) Clinical Management and Research	en	tbmanagement	[3, 8]	[8]	 Medicine + Health & Society	 Johns Hopkins University
+679	Metaliteracy: Empowering Yourself in a Connected World	en	metaliteracy	[4, 6, 14, 20]	[117]	 Information, Tech & Design + Humanities  + Education + Social Sciences	 The State University of New York
+680	International Organizations Management	en	interorg	[13]	[49]	 Business & Management	 University of Geneva
+681	Abortion: Quality Care and Public Health Implications	en	abortion	[3, 10]	[10]	 Medicine + Biology & Life Sciences	 University of California, San Francisco
+682	 Mobile Healthcare technologies for patients and providers	en	introbiomedhlthinfo	[3, 15]	[9]	 Medicine + Engineering	 Georgia Institute of Technology
+683	Principles of Reactive Programming	en	reactive	[12]	[16]	 Computer Science: Software Engineering	 École Polytechnique Fédérale de Lausanne
+684	Managing the Company of the Future	en	futuremanagement	[13]	[26]	 Business & Management	 University of London
+685	El ABC del emprendimiento esbelto 	es	abcemprendimiento	[]	[62]		 Tecnológico de Monterrey
+686	An Introduction to Evidence-Based Undergraduate STEM Teaching	en	stemteaching	[5, 9, 10, 14, 15, 25]	[37, 65, 228, 229]	 Mathematics + Physical & Earth Sciences + Biology & Life Sciences + Education + Engineering + Energy & Earth Sciences	 Vanderbilt University + University of Wisconsin–Madison + Michigan State University
+687	Globalization of Business Enterprise	en	globe	[2, 13]	[172]	 Economics & Finance + Business & Management	 IESE Business School
+688	Freedom and protest: Magna Carta and its legacies	en	magnacarta	[6, 20, 21]	[26]	 Humanities  + Social Sciences + Law	 University of London
+689	活用希臘哲學 (Understanding the Greek Philosophy)	zh-tw	ntuugp	[6]	[75]	 Humanities 	 National Taiwan University
+690	Globalizing Higher Education and Research for the ‘Knowledge Economy’	en	globalhighered	[4, 14, 20]	[65]	 Information, Tech & Design + Education + Social Sciences	 University of Wisconsin–Madison
+691	Practical Learning Analytics	en	pla	[4, 14, 16, 26]	[3]	 Information, Tech & Design + Education + Statistics and Data Analysis + Teacher Professional Development	 University of Michigan
+692	Programming Mobile Applications for Android Handheld Systems: Part 2	en	androidpart2	[4, 12]	[32]	 Information, Tech & Design + Computer Science: Software Engineering	 University of Maryland, College Park
+693	Principles of fMRI 2	en	fmri2	[3, 8, 16]	[8]	 Medicine + Health & Society + Statistics and Data Analysis	 Johns Hopkins University
+694	Usable Security	en	usablesec	[11]	[32]	 Computer Science: Systems & Security	 University of Maryland, College Park
+695	How to Change the World	en	changetheworld	[6, 8, 20]	[34]	 Humanities  + Health & Society + Social Sciences	 Wesleyan University
+696	Foundations of Teaching for Learning 8: Developing Relationships	en	teach8	[14, 26]	[106]	 Education + Teacher Professional Development	 Commonwealth Education Trust
+697	Leading Innovation in Arts and Culture	en	innovationarts	[13, 22]	[37, 227]	 Business & Management + Arts	 Vanderbilt University
+698	Creative, Serious and Playful Science of Android Apps	en	androidapps101	[12]	[17]	 Computer Science: Software Engineering	 University of Illinois at Urbana-Champaign
+699	Introduction to Logic	en	intrologic	[1, 5, 17]	[1]	 Computer Science: Theory + Mathematics + Computer Science: Artificial Intelligence	 Stanford University
+700	A Look at Nuclear Science and Technology	en	nuclearscience	[15, 23, 24]	[36]	 Engineering + Physics + Chemistry	 University of Pittsburgh
+701	Introduction to Digital Sound Design	en	digitalsounddesign	[18]	[23]	 Music, Film, and Audio	 Emory University
+702	Droit international et droit comparé: regards croisés	fr	droit	[6, 21]	[130]	 Humanities  + Law	 École normale supérieure
+703	Evaluation financière de l'entreprise	fr	evaluation	[2, 13]	[161]	 Economics & Finance + Business & Management	 HEC Paris
+704	How Viruses Cause Disease	en	virology2	[3, 10]	[40]	 Medicine + Biology & Life Sciences	 Columbia University
+705	计算机系统基础（一） ：程序的表示、转换与链接	zh-cn	njuics1	[1, 11]	[230]	 Computer Science: Theory + Computer Science: Systems & Security	 Nanjing University
+706	Myths and Realities of Personalised Medicine: The Genetic Revolution	en	personalisedmed	[3, 8]	[155]	 Medicine + Health & Society	 UNSW Australia (The University of New South Wales)
+707	中國人文經典導讀 | Classics of Chinese Humanities: Guided Readings	zh-tw	chinesehumanities	[6]	[45]	 Humanities 	 The Chinese University of Hong Kong
+708	Fundamentals of Electrical Engineering	en	eefun	[15]	[13]	 Engineering	 Rice University
+709	Introduction to Psychology as a Science	en	psy	[20]	[9]	 Social Sciences	 Georgia Institute of Technology
+710	Design and Interpretation of Clinical Trials	en	clintrials	[3, 8]	[8]	 Medicine + Health & Society	 Johns Hopkins University
+711	The Hardware/Software Interface	en	hwswinterface	[11]	[15]	 Computer Science: Systems & Security	 University of Washington
+712	Crafting an Effective Writer: Tools of the Trade (Fundamental English Writing)	en	basicwriting	[6]	[44]	 Humanities 	
+713	Preventing Chronic Pain: A Human Systems Approach	en	chronicpain	[3, 8, 10]	[50]	 Medicine + Health & Society + Biology & Life Sciences	 University of Minnesota
+714	Warhol	en	warhol	[6, 22]	[14]	 Humanities  + Arts	 The University of Edinburgh
+715	The Global Business of Sports	en	globalsportsbusiness	[13, 20]	[6]	 Business & Management + Social Sciences	 University of Pennsylvania
+716	Drugs and the Brain	en	drugsandbrain	[3, 10]	[12]	 Medicine + Biology & Life Sciences	 Caltech
+717	Managing Responsibly: Practicing Sustainability, Responsibility and Ethics	en	responsiblemgmnt	[13]	[147]	 Business & Management	 University of Manchester
+718	實驗經濟學 (Experimental Economics I: Behavioral Game Theory)	zh-tw	expeconomics1	[2]	[75]	 Economics & Finance	 National Taiwan University
+719	Presumed Innocent? The Social Science of Wrongful Conviction	en	wrongfulconviction	[20, 21]	[51]	 Social Sciences + Law	 The Pennsylvania State University
+720	Common Core in Action: Literacy in the Content Areas- Exploring Literacy Design Collaborative Template Tasks	en	ccss-literacy1	[14, 26]	[103]	 Education + Teacher Professional Development	 New Teacher Center
+721	Nanotechnology and Nanosensors	en	nanosensors	[10, 15, 24]	[129]	 Biology & Life Sciences + Engineering + Chemistry	 Technion - Israel Institute of Technology
+722	What a Plant Knows (and other things you didn’t know about plants)	en	plantknows	[10]	[110]	 Biology & Life Sciences	 Tel Aviv University
+723	Malicious Software and its Underground Economy: Two Sides to Every Story	en	malsoftware	[11, 12]	[26]	 Computer Science: Systems & Security + Computer Science: Software Engineering	 University of London
+724	Applying Principles of Behavior in the K-12 Classroom	en	behaviorprinciples	[26]	[119]	 Teacher Professional Development	 University of Houston System
+725	Designing and Executing Information Security Strategies	en	infosec	[4, 11, 13]	[15]	 Information, Tech & Design + Computer Science: Systems & Security + Business & Management	 University of Washington
+726	The Meat We Eat	en	meatweeat	[10, 19]	[31]	 Biology & Life Sciences + Food and Nutrition	 University of Florida
+727	Introduction to Acoustics (Part 2)	en	acoustics2	[15, 18, 23]	[178]	 Engineering + Music, Film, and Audio + Physics	 Korea Advanced Institute of Science and Technology
+728	Sagas and Space - Thinking Space in Viking Age and Medieval Scandinavia	en	sagaspace	[6, 22]	[93]	 Humanities  + Arts	 University of Zurich
