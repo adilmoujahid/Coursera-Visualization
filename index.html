@@ -8,35 +8,47 @@
         <link rel="stylesheet" href="./static/lib/css/keshif.css" type="text/css">
         <link rel="stylesheet" href="./static/lib/css/font-awesome.min.css">
 
-        <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+        <!-- Optional demo.css -->
+        <link rel="stylesheet" href="./static/css/demo.css">
+
+
         <script type="text/javascript" src="./static/lib/js/jquery-1.12.0.min.js"></script>
         <script type="text/javascript" src="./static/lib/js/d3.min.js" charset="utf-8"></script>
         <script type="text/javascript" src="./static/lib/js/keshif.js" charset="utf-8"></script>
+
+        <!-- Optional demo.js -->
+        <script type="text/javascript" src="./static/js/demo.js" charset="utf-8"></script>
 
         <!--
         <script type="text/javascript" src="./static/js/graph.js" charset="utf-8"></script>
         -->
 <script type="text/javascript">
 
-
 $(document).ready( function(){
-  browser = new kshf.Browser({
-    domID: "#chart_div",
-    categoryTextWidth: 210,
-    rightPanelLabelWidth: 140,
-    source: {
-        dirPath: "./data/",
-        fileType: 'json',
-        tables: {name:"CourseraData", id:"id"}
-    },
-    summaries: [
-        { name: "courseCategories", panel: 'left' },
-        { name: "courseLanguage", panel: 'left' },
-        { name: "courseLocations", panel: 'right' },
-        { name: "courseName", panel: 'middle' },
-        { name: "courseUniversities", panel: 'right' }
-    ]
-  });
+    browser = new kshf.Browser({
+        domID: "#chart_div",
+        barChartWidth: 100,
+        categoryTextWidth: 190,
+        leftPanelLabelWidth: 200,
+        rightPanelLabelWidth: 200,
+        source: {
+            dirPath: "./data/",
+            fileType: 'json',
+            tables: {name:"CourseraData", id:"id"}
+        },
+        summaries: [
+            { name: "Category", panel: 'left' , value: function(){ return this.courseCategories.split(" + ");} },
+            { name: "Country", panel: 'right' , value: function(){ return this.courseLocations.split(" + ");} },
+            { name: "University", panel: 'right' , value: function(){ return this.courseUniversities.split(" + ");} },
+            { name: "Language", value: "courseLanguage", panel: 'left' }
+        ],
+        recordDisplay: {
+            sortColWidth: 50,
+            sortBy: "id",
+            textSearch: "courseName",
+            recordView: "courseName"
+        }
+    });
 });
 
 
@@ -46,7 +58,9 @@ $(document).ready( function(){
     </head>
 
     <body>
-        <div class="contents"><div id="chart_div"></div></div>
+        <div class="contents">
+            <div id="chart_div"></div>
+        </div>
     </body>
 
 </html>
